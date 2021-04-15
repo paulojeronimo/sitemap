@@ -49,26 +49,31 @@ code in Bash or Python, or JavaScript.
 . https://paulojeronimo.com/asciidoc-e-asciidoctor/
 .. https://github.com/paulojeronimo/asciidoc-e-asciidoctor
 
-=== Apache Nifi
+=== Apache NiFi
 
 . https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
+. https://paulojeronimo.com/apache-nifi-tutorial/index.html
 
 === Arch Linux
 
 . https://github.com/paulojeronimo/archlinux-mirror-synchronizer
 
+=== Arquillian
+
+. https://paulojeronimo.com/javaee-tutorial-testes/
+
 === AWS SQS
 
-. https://github.com/paulojeronimo/aws-lambda-labs
+. https://paulojeronimo.com/aws-lambda-labs/
 
 === AWS Kinesis
 
-. https://github.com/paulojeronimo/aws-lambda-labs
+. https://paulojeronimo.com/aws-lambda-labs/
 . https://asciinema.org/a/402571
 
 === AWS Lambda
 
-. https://github.com/paulojeronimo/aws-lambda-labs
+. https://paulojeronimo.com/aws-lambda-labs/
 . https://asciinema.org/a/402571
 
 === AWS EC2
@@ -77,7 +82,7 @@ code in Bash or Python, or JavaScript.
 
 === AWS S3
 
-. https://github.com/paulojeronimo/aws-lambda-labs
+. https://paulojeronimo.com/aws-lambda-labs/
 
 === Bash
 
@@ -96,11 +101,19 @@ code in Bash or Python, or JavaScript.
 
 === Blockchain
 
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V +
+  Blockchain: uma visualização gráfica
+. https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+. https://blockchain4devs.github.io/dfjug1ano/
 
 === Confluence
 
 . https://paulojeronimo.com/confluence-asciidoc-integration-alternatives/index.html
+
+=== Cucumber
+
+. https://paulojeronimo.com/bdd-tutorial/
+. https://github.com/paulojeronimo/metas-app-features
 
 === Docker
 
@@ -110,16 +123,30 @@ code in Bash or Python, or JavaScript.
 . https://paulojeronimo.com/docker-parcel-react-tutorial
 .. https://github.com/paulojeronimo/docker-parcel-react-tutorial
 . https://github.com/paulojeronimo/docker-oracle-xe
-. https://www.youtube.com/watch?v=Y41E2kabT9g
-. https://www.youtube.com/watch?v=psC_PPdkm7E
+. https://www.youtube.com/watch?v=Y41E2kabT9g +
+  Tutorial Docker 1
+. https://www.youtube.com/watch?v=psC_PPdkm7E +
+  Tutorial Docker 2
+
+=== Docker Compose
+
+. https://github.com/paulojeronimo/kogito-quickstart-with-docker-compose/blob/main/docker-compose.yaml
+. https://github.com/paulojeronimo/spring-boot-api-sample/blob/master/docker-compose.yml
+. https://github.com/paulojeronimo/docker-compose-nifi-cluster/blob/master/docker-compose.yml
 
 === Ethereum
 
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr +
+  Ethereum
 . https://github.com/paulojeronimo/ethereum-pet-shop-tutorial
 . https://github.com/paulojeronimo/ethereum-pet-shop
 . https://github.com/paulojeronimo/ethereum-ribon-poc
 . https://github.com/paulojeronimo/mobilityhacklisbon
+
+=== Gherkin
+
+. https://paulojeronimo.com/bdd-tutorial/
+. https://github.com/paulojeronimo/metas-app-features
 
 === Git
 
@@ -133,7 +160,12 @@ code in Bash or Python, or JavaScript.
 === Java
 
 . https://github.com/paulojeronimo/java-cucumber-sample
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-g8OkalJ0tLqr03uiizsUl
+. https://github.com/paulojeronimo/java9-jigsaw-tutorial
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-g8OkalJ0tLqr03uiizsUl +
+  spring-boot
+. https://github.com/paulojeronimo/java-fundamentals-examples
+. https://github.com/paulojeronimo/openshift-javaee-helloworld
+. https://paulojeronimo.com/javaee-tutorial-testes/
 
 === JavaScript
 
@@ -147,6 +179,7 @@ code in Bash or Python, or JavaScript.
 === Kafka
 
 . https://paulojeronimo.com/kafka-labs/
+.. https://github.com/paulojeronimo/kafka-labs
 . https://paulojeronimo.com/kafka-security/
 
 === Keycloak
@@ -182,7 +215,6 @@ code in Bash or Python, or JavaScript.
 === Kubernetes
 
 . https://paulojeronimo.com/kubernetes-labs
-. https://github.com/paulojeronimo/kubernetes-labs
 
 === LDAP
 
@@ -190,7 +222,8 @@ code in Bash or Python, or JavaScript.
 
 === Microservices
 
-. https://github.com/paulojeronimo/microservices-on-openshift
+. https://paulojeronimo.com/microservices-on-openshift
+.. https://github.com/paulojeronimo/microservices-on-openshift
 
 === MinIO
 
@@ -198,11 +231,13 @@ code in Bash or Python, or JavaScript.
 
 === Nix
 
-. https://www.youtube.com/watch?v=esyJk-LTajA&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=2
+. https://www.youtube.com/watch?v=esyJk-LTajA&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=2 +
+  Hangout Online e Gratuito DevOps com Nix e NixOS
 
 === NixOS
 
-. https://www.youtube.com/watch?v=esyJk-LTajA&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=2
+. https://www.youtube.com/watch?v=esyJk-LTajA&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=2 +
+  Hangout Online e Gratuito DevOps com Nix e NixOS
 
 === Node.js
 
@@ -217,8 +252,10 @@ code in Bash or Python, or JavaScript.
 
 === OpenShift
 
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz80t28po64HrIjcazNbl_84
-. https://github.com/paulojeronimo/microservices-on-openshift
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz80t28po64HrIjcazNbl_84 +
+  OpenShift
+. https://paulojeronimo.com/microservices-on-openshift
+. https://github.com/paulojeronimo/openshift-javaee-helloworld
 
 === OpenSSL
 
@@ -235,6 +272,10 @@ code in Bash or Python, or JavaScript.
 . https://github.com/paulojeronimo/groupplus_timesheet
 . https://github.com/paulojeronimo/analise-de-dados-com-python
 
+=== Postgres
+
+. https://github.com/paulojeronimo/spring-boot-api-sample/
+
 === Quarkus
 
 . https://github.com/paulojeronimo/kogito-quickstart-with-docker-compose
@@ -249,10 +290,12 @@ code in Bash or Python, or JavaScript.
 . http://paulojeronimo.com/docker-parcel-react-tutorial/
 .. https://github.com/paulojeronimo/docker-parcel-react-tutorial
 .. https://github.com/paulojeronimo/docker-parcel-react-demo
+. https://finisher.tech/tutorial-1/
 
 === Spring Boot
 
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-g8OkalJ0tLqr03uiizsUl
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-g8OkalJ0tLqr03uiizsUl +
+  spring-boot
 . https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
 
 === Spring Cloud Data Flow

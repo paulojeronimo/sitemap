@@ -29,10 +29,18 @@ code in Bash or Python, or JavaScript.
 
 == Repositories
 
-* *GitHub*: https://github.com/paulojeronimo
+* *GitHub*:
+** https://github.com/paulojeronimo <- Paulo Jeronimo
+** https://github.com/blockchain4devs
+** https://github.com/finishertech
 * *GitLab*: https://gitlab.com/paulojeronimo
 * *BitBucket*: https://bitbucket.org/paulojeronimo
-* *YouTube*: https://www.youtube.com/~paulojeronimo
+* *YouTube*:
+** https://www.youtube.com/~ladoservidor
+** https://www.youtube.com/~paulojeronimo
+** https://www.youtube.com/channel/UCF_zVOdsT2X4nWVm2h-otVA <- Finisher.Tech
+** https://www.youtube.com/channel/UCd6n5bW_EZzBP0L8D6OcAow <- Saúde e Cripto
+* *Odysee*: https://odysee.com/@paulojeronimo:4
 * *Asciinema*: https://asciinema.org/~paulojeronimo
 
 == Finisher.Tech
@@ -40,6 +48,10 @@ code in Bash or Python, or JavaScript.
 . https://paulojeronimo.com/tw-metas/#FinisherTech
 .. https://github.com/paulojeronimo/tw-metas
 . https://paulojeronimo.com/finishertech-website-tutorial/
+
+=== Saúde e Cripto
+
+. https://bio.link/saudeecripto
 
 == Tags
 
@@ -103,6 +115,7 @@ code in Bash or Python, or JavaScript.
 
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V +
   Blockchain: uma visualização gráfica
+. https://www.youtube.com/watch?v=YVj9B8A6SJY&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=8
 . https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
 . https://blockchain4devs.github.io/dfjug1ano/
 
@@ -136,12 +149,16 @@ code in Bash or Python, or JavaScript.
 
 === Ethereum
 
-. https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr +
-  Ethereum
-. https://github.com/paulojeronimo/ethereum-pet-shop-tutorial
-. https://github.com/paulojeronimo/ethereum-pet-shop
-. https://github.com/paulojeronimo/ethereum-ribon-poc
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr
+. https://github.com/paulojeronimo?tab=repositories&q=ethereum&type=&language=&sort=
+. https://odysee.com/@paulojeronimo:4/ethereum-helloworld-tutorial:b 
+. https://odysee.com/@paulojeronimo:4/ftecm221-corte001:6
 . https://github.com/paulojeronimo/mobilityhacklisbon
+
+=== Fibonacci
+
+. https://github.com/finishertech/fibonacci-app
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_-Jvmt-dUK1gEs2u46B5SM
 
 === Gherkin
 
@@ -169,12 +186,11 @@ code in Bash or Python, or JavaScript.
 
 === JavaScript
 
-. https://github.com/paulojeronimo/javascript-cucumber-sample
-. https://github.com/paulojeronimo/simple-es6-tdd-example
+. https://github.com/search?q=user%3Apaulojeronimo+javascript
 
 === jq
 
-. https://github.com/paulojeronimo/jq-labs
+. https://github.com/paulojeronimo?tab=repositories&q=jq
 
 === Kafka
 
@@ -228,6 +244,18 @@ code in Bash or Python, or JavaScript.
 === MinIO
 
 . https://github.com/paulojeronimo/minio-labs
+
+=== NEAR
+
+. https://github.com/paulojeronimo?tab=repositories&q=near
+
+=== NFT
+
+. https://github.com/paulojeronimo?tab=repositories&q=nft
+. https://odysee.com/@paulojeronimo:4/como-voce-fara-um-amigo-sair-do-sedentarismo-com-um-nft:7
+. https://odysee.com/@paulojeronimo:4/ftecm221-nft-1:2
+. https://odysee.com/@paulojeronimo:4/nft-week-1-encontro-2:9
+. https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
 
 === Nix
 
@@ -284,13 +312,10 @@ code in Bash or Python, or JavaScript.
 
 === React
 
-. https://paulojeronimo.com/quarkus-react-sample/
-... https://github.com/paulojeronimo/quarkus-react-sample
+. https://github.com/paulojeronimo?tab=repositories&q=react
 . https://paulojeronimo.com/finishertech-website-tutorial/
-. http://paulojeronimo.com/docker-parcel-react-tutorial/
-.. https://github.com/paulojeronimo/docker-parcel-react-tutorial
-.. https://github.com/paulojeronimo/docker-parcel-react-demo
 . https://finisher.tech/tutorial-1/
+. https://finisher.tech/fibonacci-app
 
 === Spring Boot
 
@@ -313,3 +338,13 @@ code in Bash or Python, or JavaScript.
 
 . https://paulojeronimo.com/finishertech-website-tutorial/
 . https://github.com/paulojeronimo/typescript-jest-cucumber-sample
+
+== Interviews
+
+=== 20220728
+
+. <<blockchain>>
+. <<ethereum>>
+. <<nft>>
+. <<node-js>>
+. <<react>>

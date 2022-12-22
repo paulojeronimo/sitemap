@@ -2,10 +2,10 @@
 
 * *YouTube*:
 . https://www.youtube.com/~paulojeronimo
-. Created for <<finishertech,my own company>>:
+. Created for <<finishertech,my current company>>:
 .. https://www.youtube.com/@FinisherTech
 .. https://www.youtube.com/@SaudeECripto
-. Created for my past company:
+. Created for {uri-ladoservidor}[my past company^]:
 .. https://www.youtube.com/~ladoservidor
 * *Odysee*: https://odysee.com/@paulojeronimo:4
 * *Asciinema*: https://asciinema.org/~paulojeronimo

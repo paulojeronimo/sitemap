@@ -1,0 +1,4 @@
+[#minio]#MinIO# - https://min.io/::
+* Texts or Code
+. https://paulojeronimo.com/minio-labs/
+.. https://github.com/paulojeronimo/minio-labs

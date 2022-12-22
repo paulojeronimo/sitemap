@@ -1,0 +1,13 @@
+[#asciidoctor]#Asciidoctor# - https://asciidoctor.org/::
+* Texts or Code
+. https://github.com/paulojeronimo/asciidoctor-multipage
+. https://paulojeronimo.com/asciidoc-e-asciidoctor/
+.. https://github.com/paulojeronimo/asciidoc-e-asciidoctor
+* My CV:
+. https://paulojeronimo.com/cv/en/resume.html
+.. https://github.com/paulojeronimo/cv
+* My website:
+. https://paulojeronimo.com
+.. https://github.com/paulojeronimo/paulojeronimo.github.io
+* <<slides,My slides>>
+* Basically, anything that I write!

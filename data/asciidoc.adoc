@@ -1,0 +1,3 @@
+[#asciidoc]#AsciiDoc# - https://asciidoctor.org/docs/#write-with-asciidoc::
+* Basically, anything that I write is writen in AsciiDoc format!
+* Related tags: {_asciidoctor}

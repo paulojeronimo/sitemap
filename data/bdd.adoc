@@ -1,0 +1,4 @@
+[#bdd]#BDD# - https://en.wikipedia.org/wiki/Behavior-driven_development::
+* Texts or Code
+. https://paulojeronimo.com/bdd-tutorial/
+. https://github.com/paulojeronimo/metas-app-features

@@ -1,0 +1,10 @@
+[#blockchain]#Blockchain# - https://en.wikipedia.org/wiki/Blockchain::
+* Videos
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V +
+  Blockchain (2018)
+* Texts or Code
+. https://www.youtube.com/watch?v=YVj9B8A6SJY&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=8
+. https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+. https://blockchain4devs.github.io/dfjug1ano/
+. https://paulojeronimo.com/blockchain-em-metas <- article
+* Related tags: {ethereum} | {web3} | {solidity} | {nft} | {near}

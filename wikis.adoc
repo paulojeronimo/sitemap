@@ -1,5 +1,5 @@
 = Wikis
 
-* Written with {TiddlyWiki}
+* Written with {tiddlywiki}
 . https://paulojeronimo.com/wiki/
 . https://paulojeronimo.com/tw-metas/

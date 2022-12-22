@@ -1,0 +1,12 @@
+[#java]#Java# - https://www.java.com/en/::
+* Texts or Code
+. https://github.com/paulojeronimo/spring-boot-api-sample/
+. https://github.com/paulojeronimo/java-cucumber-sample
+. https://paulojeronimo.com/java9-jigsaw-tutorial/
+.. https://github.com/paulojeronimo/java9-jigsaw-tutorial
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-g8OkalJ0tLqr03uiizsUl +
+  spring-boot
+. https://github.com/paulojeronimo/java-fundamentals-examples
+. https://github.com/paulojeronimo/openshift-javaee-helloworld
+. https://paulojeronimo.com/javaee-tutorial-testes/
+. https://github.com/paulojeronimo/curso-javaee

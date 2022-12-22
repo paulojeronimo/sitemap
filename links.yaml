@@ -1,5 +1,0 @@
-links:
-  - link: https://paulojeronimo.com/aws-lambda-labs/
-    related:
-      - https://github.com/paulojeronimo/aws-lambda-links
-    tags: [aws-lambda,aws-kinesis,aws-sqs]

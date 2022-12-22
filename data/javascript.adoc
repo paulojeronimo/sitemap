@@ -1,0 +1,6 @@
+[#javascript]#JavaScript# - https://developer.mozilla.org/en-US/docs/Web/JavaScript::
+* Texts or Code
+//. https://github.com/search?q=user%3Apaulojeronimo+javascript
+. https://github.com/paulojeronimo/game
+. https://github.com/paulojeronimo/simple-es6-tdd-example
+. https://github.com/paulojeronimo/javascript-cucumber-sample

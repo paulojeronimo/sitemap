@@ -1,0 +1,4 @@
+[#aws-lambda]#AWS Lambda# - https://aws.amazon.com/lambda/::
+* Texts or Code
+. https://paulojeronimo.com/aws-lambda-labs/
+.. https://github.com/paulojeronimo/aws-lambda-labs/

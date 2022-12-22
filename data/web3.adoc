@@ -1,0 +1,10 @@
+[#web3]#Web3# - https://en.wikipedia.org/wiki/Web3::
+* Videos
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-gURtHQC5J-_lw6QB_DD7Y +
+   Web3
+* Texts or Code
+. https://paulojeronimo.com/sveltekit-web3-login-tutorial/
+.. https://paulojeronimo.com/sveltekit-web3-login/
+* Blog posts
+. https://paulojeronimo.com/posts/web3-para-confianca/
+* Related tags: {blockchain} | {ethereum} | {solidity} | {near} | {nft}

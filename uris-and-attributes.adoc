@@ -1,13 +1,12 @@
 // URIs
 :uri-paulojeronimo: https://paulojeronimo.com
+:uri-ladoservidor: http://ladoservidor.blobspot.com
 :uri-links_yaml: https://github.com/paulojeronimo/sitemap/blob/main/links.yaml
-:uri-tiddlywiki: https://tiddlywiki.com/
 :uri-google-search-dao: https://www.google.com/search?q=%22distributed+autonomous+organization%22
 // External Attributes
 :paulojeronimo: {uri-paulojeronimo}[Paulo Jerônimo^]
 :blog-posts: {uri-paulojeronimo}/posts[blog posts^]
 :sitemap: https://en.wikipedia.org/wiki/Site_map[site map^]
-:TiddlyWiki: {uri-tiddlywiki}[TiddlyWiki^]
 // Internal Attributes
 :FinisherTech: <<finishertech,Finisher.Tech>>
 :SaudeECripto: <<saudeecripto,Saúde e Cripto>>

@@ -1,0 +1,5 @@
+[#kafka]#Kafka# - https://kafka.apache.org/::
+* Texts or Code
+. https://paulojeronimo.com/kafka-labs/
+.. https://github.com/paulojeronimo/kafka-labs
+. https://paulojeronimo.com/kafka-security/

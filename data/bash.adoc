@@ -1,0 +1,12 @@
+[#bash]#Bash# - https://www.gnu.org/software/bash/::
+* Texts or Code
+. https://github.com/paulojeronimo/paulojeronimo.github.io
+. https://github.com/paulojeronimo/sitemap
+. https://github.com/paulojeronimo/chupa-cabra-sisam-inpe
+. https://paulojeronimo.com/rh-sso-manage-users/
+.. https://github.com/paulojeronimo/rh-sso-manage-users
+. https://paulojeronimo.com/git-labs/
+.. https://github.com/paulojeronimo/git-labs
+. https://paulojeronimo.com/keycloak-matrix/
+.. https://github.com/paulojeronimo/keycloak-matrix
+. https://github.com/paulojeronimo/jq-labs

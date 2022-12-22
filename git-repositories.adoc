@@ -4,10 +4,10 @@
 . https://github.com/paulojeronimo <-
 My main git repository (created on 2013).
 . https://github.com/finishertech <-
-Code built for my own company ({FinisherTech}) (2019).
+Code built for my current company ({FinisherTech}) (2019).
 . https://github.com/blockchain4devs <-
 Open source materials produced when I started to publish about
-<<blockchain>> (2017).
+{blockchain} (2017).
 . https://github.com/cebraspe <-
 Open Source code built
 https://paulojeronimo.com/cv/en/resume.html#cebraspe[when I worked for

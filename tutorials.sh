@@ -2,7 +2,13 @@
 set -eou pipefail
 
 cd "$(dirname "$0")"
-echo -e '= Tutorials\n' > tutorials.adoc
-regex='^. https:\/\/.*\(labs\|tutorial\|presentation\)'
-sed -n "/$regex/p" README.adoc | sort | uniq | \
-  grep -E -v '(docker-labs|jq-labs)' >> tutorials.adoc
+echo -e '= [[tutorials]] Articles or Tutorials\n' > tutorials.adoc
+regex='^. https:\/\/.*\(labs\|tutorial\|presentation\|article\)'
+tag_tutorials=
+for tag in data/*
+do
+  tutorials=$(sed -n "/$regex/p" $tag | cut -d' ' -f-2 && echo)
+  tag_tutorials=$(echo -e "$tutorials\n$tag_tutorials")
+done
+sed '/^[[:space:]]*$/d' <<< "$tag_tutorials" | \
+  sort | uniq | grep -E -v '(docker-labs|jq-labs)' >> tutorials.adoc

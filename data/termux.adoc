@@ -1,0 +1,8 @@
+[#termux]#Termux# - https://github.com/termux/termux-app::
+* Texts or Code
+. https://paulojeronimo.com/termux-presentation/multipage/
+.. https://github.com/paulojeronimo/termux-presentation
+.. https://github.com/paulojeronimo/termux-docker
+* Blog posts
+. https://paulojeronimo.com/posts/cut-video/
+. https://paulojeronimo.com/posts/bash-api-test/

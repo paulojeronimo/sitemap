@@ -1,0 +1,3 @@
+[#tdd]#TDD# - https://en.wikipedia.org/wiki/Test-driven_development::
+* Texts or Code
+. https://github.com/paulojeronimo/simple-es6-tdd-example

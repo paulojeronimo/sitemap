@@ -1,0 +1,6 @@
+[#near]#NEAR# - https://near.org/::
+* Texts or Code
+. https://paulojeronimo.com/near-rust-smart-contract-tutorial/
+. https://paulojeronimo.com/near-rust-smart-contract-tutorial-video/
+. https://paulojeronimo.com/near-greeting-frontend-tutorial/
+.. https://github.com/paulojeronimo/near-greeting-frontend-tutorial

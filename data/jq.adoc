@@ -1,0 +1,5 @@
+[#jq]#jq# - https://stedolan.github.io/jq/::
+* Texts or Code
+. https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
+.. https://github.com/paulojeronimo/jq-timesheet-tutorial
+. https://github.com/paulojeronimo/jq-labs

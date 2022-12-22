@@ -1,0 +1,7 @@
+[#openshift]#OpenShift# - https://www.redhat.com/en/technologies/cloud-computing/openshift::
+* Videos
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz80t28po64HrIjcazNbl_84 +
+   OpenShift
+* Texts or Code
+. https://paulojeronimo.com/microservices-on-openshift <- tutorial
+. https://github.com/paulojeronimo/openshift-javaee-helloworld

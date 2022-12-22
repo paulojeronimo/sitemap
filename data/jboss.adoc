@@ -1,0 +1,9 @@
+[#jboss]#JBoss# - https://www.jboss.org/::
+* Texts or Code
+. https://github.com/paulojeronimo/jboss-domain-mode-scripts
+. https://github.com/paulojeronimo/cluster-jboss-eap-6-test
+. https://github.com/paulojeronimo/poc-vraptor-jboss-cluster
+. https://github.com/paulojeronimo/jboss-scripts
+. https://github.com/paulojeronimo/struts2-crud-example
+. https://github.com/paulojeronimo/eap-build
+* Related tags: {wildfly}

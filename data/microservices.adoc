@@ -1,0 +1,4 @@
+[#microservices]#Microservices# - https://en.wikipedia.org/wiki/Microservices::
+* Texts or Code
+. https://paulojeronimo.com/microservices-on-openshift
+.. https://github.com/paulojeronimo/microservices-on-openshift

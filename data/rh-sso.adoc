@@ -1,0 +1,6 @@
+[#rh-sso]#RH-SSO# - https://access.redhat.com/products/red-hat-single-sign-on::
+* Texts or Code
+. https://github.com/paulojeronimo/rh-sso-ldap-lab
+. https://paulojeronimo.com/rh-sso-manage-users/
+.. https://github.com/paulojeronimo/rh-sso-manage-users
+* Related tags: {keycloak}

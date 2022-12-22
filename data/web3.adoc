@@ -1,5 +1,6 @@
 [#web3]#Web3# - https://en.wikipedia.org/wiki/Web3::
 * Videos
+. https://odysee.com/@paulojeronimo/web3
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz-gURtHQC5J-_lw6QB_DD7Y +
    Web3
 * Texts or Code

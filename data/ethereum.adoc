@@ -1,5 +1,6 @@
 [#ethereum]#Ethereum# - https://ethereum.org/en/::
 * Videos
+. https://odysee.com/@paulojeronimo/ethereum
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr +
   Ethereum (2018)
 * Texts or Code

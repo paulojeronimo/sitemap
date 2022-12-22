@@ -1,5 +1,4 @@
 [#jwt]#JWT# - https://jwt.io/::
-* Texts or Code
 * Videos
 . https://www.youtube.com/watch?v=iJU-74SPisI&list=PL3jVhh9mXmz_V7gLYMOsL5OVOQHv5lCDk&index=1
 * Texts or Code

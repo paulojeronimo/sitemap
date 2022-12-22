@@ -1,2 +1,3 @@
 [#dapps]#DApps# - https://en.wikipedia.org/wiki/Decentralized_application::
-. https://finisher.tech/dapps
+* Texts or Code
+. https://finisher.tech/dapps <- article

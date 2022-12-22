@@ -1,2 +1,3 @@
 [#move-to-earn]#Move-To-Earn# - https://coinmarketcap.com/view/move-to-earn/::
-. https://finisher.tech/move-to-earn
+* Texts or Code
+. https://finisher.tech/move-to-earn <- article

@@ -1,7 +1,6 @@
 // URIs
 :uri-paulojeronimo: https://paulojeronimo.com
-:uri-ladoservidor: http://ladoservidor.blobspot.com
-:uri-links_yaml: https://github.com/paulojeronimo/sitemap/blob/main/links.yaml
+:uri-ladoservidor: http://ladoservidor.blogspot.com
 :uri-google-search-dao: https://www.google.com/search?q=%22distributed+autonomous+organization%22
 // External Attributes
 :paulojeronimo: {uri-paulojeronimo}[Paulo Jerônimo^]

@@ -1,0 +1,5 @@
+[#yq]#yq# - https://mikefarah.gitbook.io/yq/::
+* Texts or Code
+. https://paulojeronimo.com/jq-timesheet-tutorial/singlepage/
+.. https://github.com/paulojeronimo/jq-timesheet-tutorial
+* Related tags: {jq}

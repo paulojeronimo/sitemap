@@ -3,3 +3,6 @@
 . https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
 .. https://github.com/paulojeronimo/jq-timesheet-tutorial
 . https://github.com/paulojeronimo/jq-labs
+* Blog posts
+. https://paulojeronimo.com/posts/bash-api-test/
+* Related tags: {yq}

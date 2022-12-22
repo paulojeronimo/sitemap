@@ -1,3 +1,5 @@
 [#ffmpeg]#FFmpeg# - https://ffmpeg.org/::
 * Texts or Code
 . https://paulojeronimo.com/posts/cut-video/
+. https://github.com/paulojeronimo/ethereum-helloworld-tutorial-video
+. https://github.com/paulojeronimo/near-rust-smart-contract-tutorial-video

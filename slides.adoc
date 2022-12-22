@@ -1,0 +1,11 @@
+= Slides
+
+* Written in AsciiDoc format
+. https://paulojeronimo.com/whoami/
+. https://paulojeronimo.com/finisher/
+. https://paulojeronimo.com/asciidoc-dzslides-slides/
+. https://paulojeronimo.com/dotnet-linux/
+. http://htmlpreview.github.io/?https://github.com/paulojeronimo/join-community-2014/blob/master/slides.html#1.0
+.. https://github.com/paulojeronimo/join-community-2014
+. https://blockchain4devs.github.io/dfjug1ano/
+. https://paulojeronimo.com/tutorial-git-github/

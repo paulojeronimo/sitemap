@@ -1,0 +1,20 @@
+= Git repositories
+
+* [[github]] *GitHub*:
+. https://github.com/paulojeronimo <-
+My main git repository (created on 2013).
+. https://github.com/finishertech <-
+Code built for my own company ({FinisherTech}) (2019).
+. https://github.com/blockchain4devs <-
+Open source materials produced when I started to publish about
+<<blockchain>> (2017).
+. https://github.com/cebraspe <-
+Open Source code built
+https://paulojeronimo.com/cv/en/resume.html#cebraspe[when I worked for
+Cebraspe^] (2015).
+. https://github.com/pensandoodireito <-
+Open Code code built
+https://paulojeronimo.com/cv/en/resume.html#ministerio-da-justica[when I
+worked as Software Architect on Sislegis^] (2014).
+* [[gitlab]] *GitLab*: https://gitlab.com/paulojeronimo
+* [[bitbucket]] *BitBucket*: https://bitbucket.org/paulojeronimo

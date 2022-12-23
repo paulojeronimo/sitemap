@@ -3,7 +3,7 @@ set -eou pipefail
 
 cd "$(dirname "$0")"
 echo -e '= Tags\n' > tags.adoc
-echo -e '.NUMBER_OF_TAGS tags\n****\n' >> tags.adoc
+echo -e '.NUMBER_OF_TAGS tags:\n****\n' >> tags.adoc
 tags=$(ls data | sed 's/\.adoc//g')
 sed 's/\(.*\)/{\1}/g' <<< "$tags" | \
   xargs | sed 's/ / | /g' >> tags.adoc

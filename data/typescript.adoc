@@ -4,3 +4,4 @@
 . https://paulojeronimo.com/finishertech-website-tutorial/
 . https://github.com/paulojeronimo/typescript-jest-cucumber-sample
 . https://github.com/paulojeronimo/metas-app-frontend
+* Related tags: {javascript}

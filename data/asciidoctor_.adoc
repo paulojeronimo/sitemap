@@ -4,6 +4,7 @@
 . https://github.com/paulojeronimo/asciidoctor-multipage
 . https://paulojeronimo.com/asciidoc-e-asciidoctor/
 .. https://github.com/paulojeronimo/asciidoc-e-asciidoctor
+. https://paulojeronimo.com/asciidoc-e-asciidoctor/ <- article
 * My CV:
 . https://paulojeronimo.com/cv/en/resume.html
 .. https://github.com/paulojeronimo/cv

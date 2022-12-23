@@ -6,22 +6,22 @@
 .. Video about it: https://www.youtube.com/watch?v=o-5leul6v_w
 .. Site: https://finisher.tech/dao
 . [[saudeecripto]]"Saúde e Cripto" is the Brazilian brand to a category
-  of projects related to {move-to-earn} developed by Finisher.Tech.
+  of projects related to {move-to-earn_} developed by Finisher.Tech.
 .. https://bio.link/saudeecripto
 .. https://finisher.tech/saudeecripto.pdf
 .. https://finisher.tech/dapps/
 .. https://finisher.tech/move-to-earn/
-. [[finishertech-edu]] Educational content related to {web3}
-  technologies (or prerequisites to develop the {dapps} created by
+. [[finishertech-edu]] Educational content related to {web3_}
+  technologies (or prerequisites to develop the {dapps_} created by
 Finisher.Tech):
 .. https://finisher.tech/mentoria.pdf
 .. https://finisher.tech/tutorial-1/
 ... https://finisher.tech/free-weeks-1/
 .... https://github.com/finishertech/finishertech.github.io/tree/source
-<- Site source code (in {react})
+<- Site source code (in {react_})
 .. https://finisher.tech/fibonacci-app/
 ... https://github.com/finishertech/fibonacci-app
-<- {react} code
+<- {react_} code
 . [[finishertech-ideas]] Ideas to implement some products (at
   paulojeronimo.com):
 .. https://paulojeronimo.com/mymedals.nft

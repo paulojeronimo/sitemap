@@ -1,0 +1,4 @@
+[#swagger]#Swagger# - https://swagger.io/::
+* Texts or Code
+. https://paulojeronimo.com/quarkus-react-sample/
+.. https://github.com/paulojeronimo/quarkus-react-sample

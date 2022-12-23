@@ -3,3 +3,4 @@
 . https://paulojeronimo.com/kubernetes-labs/
 .. https://github.com/paulojeronimo/kubernetes-labs
 . https://paulojeronimo.com/aks-with-github-actions-tutorial/
+* Related tags: {docker}

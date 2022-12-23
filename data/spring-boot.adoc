@@ -6,3 +6,4 @@
 . https://github.com/paulojeronimo/spring-boot-api-sample/
 . https://paulojeronimo.com/keycloak-spring-boot-tutorial
 .. https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
+* Related tags: {java} {kotlin} {groovy}

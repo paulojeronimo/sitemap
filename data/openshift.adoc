@@ -5,3 +5,4 @@
 * Texts or Code
 . https://paulojeronimo.com/microservices-on-openshift <- tutorial
 . https://github.com/paulojeronimo/openshift-javaee-helloworld
+* Related tags: {kubernetes}

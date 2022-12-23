@@ -3,3 +3,4 @@
 . https://www.youtube.com/playlist?list=PL2UgI3aRNe-gBpb9KHnO_n95tu5_lBHFr +
    FTFreeWeeks1-2 - Introdução ao OpenStack
 //. https://github.com/paulojeronimo/finishertech-openstack-tutorial
+* Related tags: {openshift} {linux-containers}

@@ -10,15 +10,14 @@ sed 's/\(.*\)/{\1}/g' <<< "$tags" | \
 echo '****' >> tags.adoc
 rm -f tag-attributes.adoc
 add-tag() {
-  echo -e ":$1: <<$2,$3>>" >> tag-attributes.adoc
-  echo -e "include::data/$2.adoc[]\n" >> tags.adoc
+  echo -e ":$1: <<$1,$1>>" >> tag-attributes.adoc
+  echo -e ":$1_: <<$1,$2>>" >> tag-attributes.adoc
+  echo -e "\ninclude::data/$1.adoc[]" >> tags.adoc
 }
-sed -i 's/{asciidoctor}/{_asciidoctor}/g' tags.adoc
-add-tag _asciidoctor asciidoctor Asciidoctor
-tags=$(grep -v asciidoctor <<< "$tags")
 for tag in $tags
 do
   tag_title=$(sed -n "/^\[#.*\]#\(.*\)#.*::$/p" data/$tag.adoc | cut -d'#' -f3)
-  add-tag $tag $tag "$tag_title"
+  add-tag $tag "$tag_title"
 done
-sed -i "s/NUMBER_OF_TAGS/$(wc -l < tag-attributes.adoc)/g" tags.adoc
+NUMBER_OF_TAGS=$(bc <<< "$(wc -l <<< "$(<tag-attributes.adoc)")/2")
+sed -i "s/NUMBER_OF_TAGS/$NUMBER_OF_TAGS/g" tags.adoc

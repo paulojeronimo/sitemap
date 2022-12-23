@@ -2,3 +2,4 @@
 * Texts or Code
 . https://paulojeronimo.com/spring-cloud-dataflow-labs/
 ... https://github.com/paulojeronimo/spring-cloud-dataflow-labs
+* Related tags: {spring-boot}

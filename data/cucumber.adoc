@@ -5,3 +5,4 @@
 .. https://github.com/paulojeronimo/javascript-cucumber-sample
 .. https://github.com/paulojeronimo/typescript-jest-cucumber-sample
 . https://github.com/paulojeronimo/metas-app-features
+* Related tags: {bdd} {gherkin}

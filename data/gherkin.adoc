@@ -1,4 +1,5 @@
-[#gerkin]#Gherkin# - https://cucumber.io/docs/gherkin/::
+[#gherkin]#Gherkin# - https://cucumber.io/docs/gherkin/::
 * Texts or Code
 . https://paulojeronimo.com/bdd-tutorial/
 . https://github.com/paulojeronimo/metas-app-features
+* Related tags: {cucumber}

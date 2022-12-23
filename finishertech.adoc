@@ -11,8 +11,9 @@
 .. https://finisher.tech/saudeecripto.pdf
 .. https://finisher.tech/dapps/
 .. https://finisher.tech/move-to-earn/
-. Educational content related to {web3} technologies (or prerequisites
-  to develop the {dapps} created by Finisher.Tech):
+. [[finishertech-edu]] Educational content related to {web3}
+  technologies (or prerequisites to develop the {dapps} created by
+Finisher.Tech):
 .. https://finisher.tech/mentoria.pdf
 .. https://finisher.tech/tutorial-1/
 ... https://finisher.tech/free-weeks-1/
@@ -21,7 +22,8 @@
 .. https://finisher.tech/fibonacci-app/
 ... https://github.com/finishertech/fibonacci-app
 <- {react} code
-. Ideas to implement some products (at paulojeronimo.com):
+. [[finishertech-ideas]] Ideas to implement some products (at
+  paulojeronimo.com):
 .. https://paulojeronimo.com/mymedals.nft
 .. https://paulojeronimo.com/medalha.nft
 .. https://paulojeronimo.com/blockchain-em-metas

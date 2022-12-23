@@ -16,3 +16,4 @@
 . https://paulojeronimo.com/quarkus-react-sample/
 .. https://github.com/paulojeronimo/quarkus-react-sample
 . https://github.com/paulojeronimo/metas-app-frontend
+* Related tags: {react-native}

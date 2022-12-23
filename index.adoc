@@ -6,6 +6,7 @@
 :nofooter:
 :numbered:
 :toc: left
+:attribute-missing: warn
 include::uris-and-attributes.adoc[]
 include::tag-attributes.adoc[]
 

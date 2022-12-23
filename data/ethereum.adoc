@@ -6,8 +6,6 @@
 * Texts or Code
 . https://paulojeronimo.com/ethereum-helloworld-tutorial/
 .. https://odysee.com/@paulojeronimo:4/ethereum-helloworld-tutorial:b
-. https://paulojeronimo.com/ethereum-helloworld-tutorial-video/
-.. https://github.com/paulojeronimo/ethereum-helloworld-tutorial-video
 . https://paulojeronimo.com/ethereum-pet-shop-tutorial/
 . https://finisher.tech/mentoria.pdf
 .. https://odysee.com/@paulojeronimo:4/ftecm221-corte001:6

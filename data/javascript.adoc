@@ -4,8 +4,8 @@
 . https://paulojeronimo.com/game-tutorial
 .. https://github.com/paulojeronimo/game-tutorial
 .. https://github.com/paulojeronimo/game
-. https://finisher.tech/fibonacci-app
-. https://finisher.tech/tutorial-1
+. https://finisher.tech/fibonacci-app/
+. https://finisher.tech/tutorial-1/
 . https://github.com/paulojeronimo/javascript-cucumber-sample
 . https://github.com/paulojeronimo/simple-es6-tdd-example
 * Related tags: {typescript}

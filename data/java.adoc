@@ -9,4 +9,4 @@
 . https://paulojeronimo.com/javaee-tutorial-testes/
 . https://github.com/paulojeronimo/curso-javaee
 . https://github.com/paulojeronimo/java-fundamentals-examples
-* Related tags: {javaee} {spring-boot}
+* Related tags: {javaee} | {spring-boot}

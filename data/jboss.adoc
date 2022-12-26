@@ -6,4 +6,4 @@
 . https://github.com/paulojeronimo/jboss-scripts
 . https://github.com/paulojeronimo/struts2-crud-example
 . https://github.com/paulojeronimo/eap-build
-* Related tags: {wildfly} {javaee}
+* Related tags: {wildfly} | {javaee}

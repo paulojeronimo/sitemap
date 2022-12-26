@@ -5,4 +5,4 @@
 .. https://github.com/paulojeronimo/javaee-tutorial-testes
 . https://github.com/paulojeronimo/sislegis-app
 . https://github.com/paulojeronimo/curso-javaee
-* Related tags: {java} {arquillian} {quarkus}
+* Related tags: {java} | {arquillian} | {quarkus}

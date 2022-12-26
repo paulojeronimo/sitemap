@@ -1,2 +1,2 @@
 [#testing]#Testing#::
-* Related tags: {tdd} {bdd} {arquillian}
+* Related tags: {tdd} | {bdd} | {arquillian}

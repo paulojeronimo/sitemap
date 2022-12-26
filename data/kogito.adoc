@@ -1,4 +1,4 @@
 [#kogito]#Kogito# - https://kogito.kie.org/::
 * Texts or Code
 . https://github.com/paulojeronimo/kogito-quickstart-with-docker-compose
-* Related tags: {quarkus} {kubernetes}
+* Related tags: {quarkus} | {kubernetes}

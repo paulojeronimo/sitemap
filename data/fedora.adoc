@@ -1,5 +1,5 @@
-[#fedora]#Fedora# - ::
-* Code
+[#fedora]#Fedora# - https://getfedora.org/::
+* Git repositories:
 . https://github.com/paulojeronimo/mirrors
 . https://github.com/paulojeronimo/sislegis-ambiente-fedora
 . https://github.com/paulojeronimo/fedora-vm

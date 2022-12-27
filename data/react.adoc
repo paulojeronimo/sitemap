@@ -1,19 +1,20 @@
 [#react]#React# - https://reactjs.org/::
-* Videos
+* Videos:
 . https://www.youtube.com/playlist?list=PL2UgI3aRNe-gXKmojaUmM67PSC57CndrC +
    FTFreeWeeks1-1 - Finisher.Tech escrito em React
-* Texts or Code
+* Documents:
 . https://finisher.tech/tutorial-1/
-.. https://github.com/finishertech/finishertech.github.io/tree/source
 . https://finisher.tech/fibonacci-app/
-.. https://github.com/finishertech/fibonacci-app
 . https://paulojeronimo.com/finishertech-website-tutorial/
 . https://paulojeronimo.com/docker-parcel-react-tutorial/
-.. https://github.com/paulojeronimo/docker-parcel-react-tutorial
 . https://paulojeronimo.com/react-parcel-quickstart-tutorial/
-.. https://github.com/paulojeronimo/react-parcel-quickstart-tutorial
 . https://paulojeronimo.com/quarkus-react-sample/
-.. https://github.com/paulojeronimo/quarkus-react-sample
+* Git repositories:
+. https://github.com/finishertech/finishertech.github.io/tree/source
+. https://github.com/finishertech/fibonacci-app
+. https://github.com/paulojeronimo/docker-parcel-react-tutorial
+. https://github.com/paulojeronimo/react-parcel-quickstart-tutorial
+. https://github.com/paulojeronimo/quarkus-react-sample
 . https://github.com/paulojeronimo/metas-app-frontend
 . https://github.com/paulojeronimo/react-clock-basic
 * Related tags: {react-native} | {azure-kubernetes-service} | {ssg}

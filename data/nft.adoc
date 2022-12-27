@@ -1,16 +1,17 @@
 [#nft]#NFT# - https://en.wikipedia.org/wiki/Non-fungible_token::
-* Videos
+* Videos:
 . https://odysee.com/@paulojeronimo/nft
-* Texts or Code
+. https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
+. https://odysee.com/@paulojeronimo:4/nft-week-1-encontro-2:9
+. https://odysee.com/@paulojeronimo:4/como-voce-fara-um-amigo-sair-do-sedentarismo-com-um-nft:7
+. https://odysee.com/@paulojeronimo:4/ftecm221-nft-1:2
+* Documents:
 . https://paulojeronimo.com/mymedals.nft/ <- article
-.. https://github.com/paulojeronimo/mymedals.nft
 . https://paulojeronimo.com/medalha.nft/ <- article
 . https://paulojeronimo.com/ethereum-nft-tutorial/
-.. https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
-.. https://odysee.com/@paulojeronimo:4/nft-week-1-encontro-2:9
-. https://odysee.com/@paulojeronimo:4/como-voce-fara-um-amigo-sair-do-sedentarismo-com-um-nft:7
 . https://finisher.tech/mentoria.pdf
-.. https://odysee.com/@paulojeronimo:4/ftecm221-nft-1:2
+* Git repositories:
+. https://github.com/paulojeronimo/mymedals.nft
 * Blog posts
 . https://paulojeronimo.com/posts/nft-week-1-encontro-2/
 . https://paulojeronimo.com/posts/nft-week-1/

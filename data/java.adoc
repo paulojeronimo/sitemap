@@ -1,12 +1,13 @@
 [#java]#Java# - https://www.java.com/en/::
-* Texts or Code
+* Documents:
+. https://paulojeronimo.com/java9-jigsaw-tutorial/
+. https://paulojeronimo.com/javaee-tutorial-testes/
+* Git repositories:
 . https://github.com/paulojeronimo/spring-boot-api-sample/
 . https://github.com/paulojeronimo/java-cucumber-sample
-. https://paulojeronimo.com/java9-jigsaw-tutorial/
-.. https://github.com/paulojeronimo/java9-jigsaw-tutorial
+. https://github.com/paulojeronimo/java9-jigsaw-tutorial
 . https://github.com/paulojeronimo/java-fundamentals-examples
 . https://github.com/paulojeronimo/openshift-javaee-helloworld
-. https://paulojeronimo.com/javaee-tutorial-testes/
 . https://github.com/paulojeronimo/curso-javaee
 . https://github.com/paulojeronimo/java-fundamentals-examples
 * Related tags: {javaee} | {spring-boot}

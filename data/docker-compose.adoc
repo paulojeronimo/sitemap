@@ -1,7 +1,8 @@
 [#docker-compose]#Docker Compose# - https://docs.docker.com/compose/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/quarkus-react-sample/
 . https://paulojeronimo.com/spring-boot-api-sample/
+* Git repositories:
 . https://github.com/paulojeronimo/kogito-quickstart-with-docker-compose/
 . https://github.com/paulojeronimo/docker-compose-nifi-cluster/
 * Related tags: {docker}

@@ -1,14 +1,15 @@
 [#docker]#Docker# - https://www.docker.com/::
-* Videos
+* Videos:
 . https://www.youtube.com/watch?v=Y41E2kabT9g +
-  Tutorial Docker 1
+  Tutorial Docker 1 - Oct 5, 2014
 . https://www.youtube.com/watch?v=psC_PPdkm7E +
-  Tutorial Docker 2
-* Texts or Code
+  Tutorial Docker 2 - Oct 5, 2014
+* Git repositories:
 . https://github.com/paulojeronimo/chupa-cabra-sisam-inpe
 . https://github.com/paulojeronimo/docker-labs
 . https://github.com/paulojeronimo/docker-node-shell-functions
-. https://paulojeronimo.com/docker-parcel-react-tutorial/
-.. https://github.com/paulojeronimo/docker-parcel-react-tutorial
+. https://github.com/paulojeronimo/docker-parcel-react-tutorial
 . https://github.com/paulojeronimo/docker-oracle-xe
+* Documents:
+. https://paulojeronimo.com/docker-parcel-react-tutorial/
 * Related tags: {kubernetes}

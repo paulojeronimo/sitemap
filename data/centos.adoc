@@ -1,5 +1,5 @@
-[#centos]#CentOS# - ::
-* Code
+[#centos]#CentOS# - https://centos.org/::
+* Git repositories:
 . https://github.com/paulojeronimo/mirrors
 . https://github.com/paulojeronimo/sislegis-ambiente-centos
 * Related tags: {linux}

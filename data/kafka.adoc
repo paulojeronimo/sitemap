@@ -1,6 +1,8 @@
 [#kafka]#Kafka# - https://kafka.apache.org/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/kafka-labs/
-.. https://github.com/paulojeronimo/kafka-labs
-. https://paulojeronimo.com/kafka-security/
+. https://paulojeronimo.com/kafka-security/ <- tutorial
+* Git repositories:
+. https://github.com/paulojeronimo/kafka-labs
+. https://github.com/paulojeronimo/kafka-security
 * Related tags: {event-driven} | {aws-kinesis}

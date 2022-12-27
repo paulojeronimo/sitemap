@@ -1,4 +1,4 @@
 [#archlinux]#Arch Linux# - https://archlinux.org/::
-* Texts or Code
+* Git repositories:
 . https://github.com/paulojeronimo/archlinux-mirror-synchronizer
 * Related tags: {linux}

@@ -1,7 +1,7 @@
 [#cucumber]#Cucumber# - https://cucumber.io/::
-* Texts
+* Documents:
 . https://paulojeronimo.com/bdd-tutorial/
-* Code
+* Git repositories:
 . https://github.com/paulojeronimo/java-cucumber-sample
 . https://github.com/paulojeronimo/spring-cucumber-rest-api
 . https://github.com/paulojeronimo/javascript-cucumber-sample

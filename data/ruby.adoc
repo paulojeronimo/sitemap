@@ -1,4 +1,4 @@
 [#ruby]#Ruby# - https://www.ruby-lang.org/en/::
-* Text or Code
+* Git repositories:
 . https://github.com/paulojeronimo/sislegis-site
 * Related tags: {asciidoctor} | {vagrant}

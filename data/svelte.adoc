@@ -1,5 +1,6 @@
 [#svelte]#Svelte# - https://svelte.dev/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
-.. https://paulojeronimo.com/sveltekit-web3-login/
+* Running applications:
+. https://paulojeronimo.com/sveltekit-web3-login/
 * Related tags: {sveltekit} | {ssg}

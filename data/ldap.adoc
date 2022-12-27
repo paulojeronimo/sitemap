@@ -1,6 +1,7 @@
 [#ldap]#LDAP# - https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol::
-* Texts or Code
+* Documents:
+. https://paulojeronimo.com/finishertech-openldap-withdata/ <- tutorial
+* Git repositories:
 . https://github.com/paulojeronimo/docker-openldap-with-kerberos
 . https://github.com/paulojeronimo/docker-kerberos-with-ldap
-. https://paulojeronimo.com/finishertech-openldap-withdata/ <- tutorial
-.. https://github.com/paulojeronimo/finishertech-openldap-withdata
+. https://github.com/paulojeronimo/finishertech-openldap-withdata

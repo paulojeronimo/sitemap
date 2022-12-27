@@ -1,7 +1,8 @@
 [#git]#Git# - https://git-scm.com/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/git-labs/
-.. https://github.com/paulojeronimo/git-labs
-. https://github.com/paulojeronimo/praticando-git-livro
 . https://paulojeronimo.com/tutorial-git-github/
-.. https://github.com/paulojeronimo/tutorial-git-github
+* Git repositories:
+. https://github.com/paulojeronimo/git-labs
+. https://github.com/paulojeronimo/praticando-git-livro
+. https://github.com/paulojeronimo/tutorial-git-github

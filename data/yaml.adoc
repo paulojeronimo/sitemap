@@ -1,5 +1,5 @@
 [#yaml]#YAML# - https://yaml.org/::
-* Texts or Code
+* Git repositories:
 . https://gist.github.com/paulojeronimo/dfb4e99846740e55afe7de4b15851dad
 . https://gist.github.com/paulojeronimo/a69b4cce7d80fc1ab11a
 . https://gist.github.com/paulojeronimo/7116d5ca6b110bdf273c

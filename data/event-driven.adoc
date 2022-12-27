@@ -4,7 +4,8 @@
 ** [[event-driven-architecuture]] Event-Driven Architecture
 .. https://aws.amazon.com/event-driven-architecture/
 .. https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/aws-lambda-labs/
-.. https://github.com/paulojeronimo/aws-lambda-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/aws-lambda-labs/
 * Related tags: {kafka} | {aws-kinesis} | {spring-cloud-dataflow}

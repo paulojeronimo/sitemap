@@ -2,6 +2,6 @@
 * Videos
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz_QaIpg1Ov3H9LXnNpL5HB- +
    Kotlin Koans
-* Texts or Code
+* Git repositories:
 . https://github.com/paulojeronimo/mobilityhacklisbon
 * Related tags: {java}

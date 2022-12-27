@@ -1,5 +1,5 @@
 [#asciidoc]#AsciiDoc# - https://asciidoctor.org/docs/#write-with-asciidoc::
 * Anything that I write is written in AsciiDoc format!
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/asciidoc-e-asciidoctor/ <- article
 * Related tags: {asciidoctor_}

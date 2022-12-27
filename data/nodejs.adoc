@@ -1,5 +1,5 @@
 [#nodejs]#Node.js# - https://nodejs.org/en/::
-* Texts or Code
+* Git repositories:
 . https://github.com/paulojeronimo/docker-node-shell-functions
 . https://github.com/paulojeronimo/npm-package-test
 . https://github.com/paulojeronimo/npm-package-use

@@ -1,5 +1,5 @@
 [#ironman]#Ironman# - https://www.ironman.com/::
-* Blog posts
+* Blog posts:
 . https://paulojeronimo.com/posts/ha-nove-anos-me-tornei-um-ironman/
-* Books
+* Books:
 . https://github.com/paulojeronimo/livro-ironman

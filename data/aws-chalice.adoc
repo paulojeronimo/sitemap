@@ -1,6 +1,6 @@
 [#aws-chalice]#AWS Chalice# - https://aws.github.io/chalice/::
-* Texts
+* Documents:
 . https://paulojeronimo.com/aws-lambda-labs/
-* Code
+* Git repositories:
 . https://github.com/paulojeronimo/aws-lambda-labs/
 * Related tags: {aws-lambda}

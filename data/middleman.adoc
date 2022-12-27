@@ -1,5 +1,5 @@
 [#middleman]#Middleman# - https://middlemanapp.com/::
-* Code
+* Git repositories:
 . https://github.com/paulojeronimo/middleman-guides
 . https://github.com/paulojeronimo/middleman-box
 . https://github.com/paulojeronimo/middleman-asciidoc-example

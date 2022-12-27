@@ -1,5 +1,6 @@
 [#microservices]#Microservices# - https://en.wikipedia.org/wiki/Microservices::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/microservices-on-openshift
-.. https://github.com/paulojeronimo/microservices-on-openshift
+* Git repositories:
+. https://github.com/paulojeronimo/microservices-on-openshift
 * Related tags: {spring-boot} | {nodejs}

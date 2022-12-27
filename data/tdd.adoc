@@ -1,4 +1,4 @@
 [#tdd]#TDD# - https://en.wikipedia.org/wiki/Test-driven_development::
-* Texts or Code
+* Git repositories:
 . https://github.com/paulojeronimo/simple-es6-tdd-example
 * Related tags: {bdd}

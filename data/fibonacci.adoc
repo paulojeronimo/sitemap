@@ -1,6 +1,7 @@
 [#fibonacci]#Fibonacci# - https://en.wikipedia.org/wiki/Fibonacci_number::
-* Videos
+* Videos:
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz_-Jvmt-dUK1gEs2u46B5SM
-* Texts or Code
+* Running applications:
 . https://finisher.tech/fibonacci-app/
-.. https://github.com/finishertech/fibonacci-app
+* Git repositories:
+. https://github.com/finishertech/fibonacci-app

@@ -1,9 +1,9 @@
 [#big-data]#Big Data# - https://www.oracle.com/big-data/what-is-big-data/::
-* Texts
+* Documents:
 . https://paulojeronimo.com/apache-nifi-tutorial/
 . https://paulojeronimo.com/spring-cloud-dataflow-labs/
 . https://paulojeronimo.com/chupa-cabra-sisam-inpe/
-* Code
+* Git repositories:
 . https://github.com/paulojeronimo/chupa-cabra-sisam-inpe
 * Related tags: {cloud-platforms} | {apache-nifi} |
   {spring-cloud-dataflow} | {database}

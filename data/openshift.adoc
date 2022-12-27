@@ -1,8 +1,9 @@
 [#openshift]#OpenShift# - https://www.redhat.com/en/technologies/cloud-computing/openshift::
 * Videos
 . https://www.youtube.com/playlist?list=PL3jVhh9mXmz80t28po64HrIjcazNbl_84 +
-   OpenShift
-* Texts or Code
+   OpenShift - Mar 6, 2017
+* Documents:
 . https://paulojeronimo.com/microservices-on-openshift <- tutorial
+* Git repositories:
 . https://github.com/paulojeronimo/openshift-javaee-helloworld
 * Related tags: {kubernetes}

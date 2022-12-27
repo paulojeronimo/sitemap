@@ -1,4 +1,4 @@
 [#linux-containers]#Linux Containers# - https://linuxcontainers.org/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/near-rust-smart-contract-tutorial/
 * Related tags: {docker}

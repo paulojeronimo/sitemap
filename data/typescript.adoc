@@ -1,7 +1,8 @@
 [#typescript]#TypeScript# - https://www.typescriptlang.org/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
 . https://paulojeronimo.com/finishertech-website-tutorial/
+* Git repositories:
 . https://github.com/paulojeronimo/typescript-jest-cucumber-sample
 . https://github.com/paulojeronimo/metas-app-frontend
 * Related tags: {javascript}

@@ -1,8 +1,9 @@
 [#jq]#jq# - https://stedolan.github.io/jq/::
-* Texts or Code
+* Documents:
 . https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
-.. https://github.com/paulojeronimo/jq-timesheet-tutorial
-. https://github.com/paulojeronimo/jq-labs
 * Blog posts
 . https://paulojeronimo.com/posts/bash-api-test/
+* Git repositories:
+. https://github.com/paulojeronimo/jq-timesheet-tutorial
+. https://github.com/paulojeronimo/jq-labs
 * Related tags: {yq}

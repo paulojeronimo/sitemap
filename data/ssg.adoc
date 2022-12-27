@@ -1,0 +1,2 @@
+[#ssg]#Static Site Generator# - https://en.wikipedia.org/wiki/Static_site_generator::
+* Related tags: {middleman} | {react} | {svelte} | {sveltekit} | {asciidoctor_}

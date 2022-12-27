@@ -4,3 +4,4 @@
 . https://paulojeronimo.com/near-rust-smart-contract-tutorial-video/
 . https://paulojeronimo.com/near-greeting-frontend-tutorial/
 .. https://github.com/paulojeronimo/near-greeting-frontend-tutorial
+* Related tags: {smart-contract} | {dapp} | {blockchain}

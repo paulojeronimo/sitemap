@@ -1,2 +1,2 @@
 [#linux]#Linux# - https://en.wikipedia.org/wiki/Linux::
-* Related tags: {archlinux} | {ubuntu} | {nixos}
+* Related tags: {archlinux} | {ubuntu} | {nixos} | {centos} | {fedora}

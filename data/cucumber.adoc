@@ -1,8 +1,10 @@
 [#cucumber]#Cucumber# - https://cucumber.io/::
-* Texts or Code
+* Texts
 . https://paulojeronimo.com/bdd-tutorial/
-.. https://github.com/paulojeronimo/java-cucumber-sample
-.. https://github.com/paulojeronimo/javascript-cucumber-sample
-.. https://github.com/paulojeronimo/typescript-jest-cucumber-sample
+* Code
+. https://github.com/paulojeronimo/java-cucumber-sample
+. https://github.com/paulojeronimo/spring-cucumber-rest-api
+. https://github.com/paulojeronimo/javascript-cucumber-sample
+. https://github.com/paulojeronimo/typescript-jest-cucumber-sample
 . https://github.com/paulojeronimo/metas-app-features
 * Related tags: {bdd} | {gherkin}

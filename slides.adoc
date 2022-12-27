@@ -1,3 +1,4 @@
+[[slides]]
 = Slides
 
 * Many of my slides are created using the {asciidoc_} format.

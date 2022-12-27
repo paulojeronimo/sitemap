@@ -12,8 +12,8 @@
 .. https://finisher.tech/dapps/
 .. https://finisher.tech/move-to-earn/
 . [[finishertech-edu]] Educational content related to {web3_}
-  technologies (or prerequisites to develop the {dapps_} created by
-Finisher.Tech):
+  technologies (or prerequisites to develop the <<dapp,DApps>> created
+by Finisher.Tech):
 .. https://finisher.tech/mentoria.pdf
 .. https://finisher.tech/tutorial-1/
 ... https://finisher.tech/free-weeks-1/

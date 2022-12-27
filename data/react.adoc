@@ -16,4 +16,4 @@
 .. https://github.com/paulojeronimo/quarkus-react-sample
 . https://github.com/paulojeronimo/metas-app-frontend
 . https://github.com/paulojeronimo/react-clock-basic
-* Related tags: {react-native} | {azure-kubernetes-service}
+* Related tags: {react-native} | {azure-kubernetes-service} | {ssg}

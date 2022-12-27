@@ -1,3 +1,4 @@
+[[wikis]]
 = Wikis
 
 * Written with {tiddlywiki_}

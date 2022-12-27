@@ -2,4 +2,4 @@
 * Texts or Code
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
 .. https://paulojeronimo.com/sveltekit-web3-login/
-* Related tags: {sveltekit}
+* Related tags: {sveltekit} | {ssg}

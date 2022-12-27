@@ -15,4 +15,5 @@
 . https://github.com/paulojeronimo/ethereum-ribon-poc
 . https://paulojeronimo.com/ethereum-tutorial/
 .. https://github.com/paulojeronimo/ethereum-tutorial
-* Related tags: {web3} | {blockchain} | {nft} | {near} | {solidity}
+* Related tags: {web3} | {blockchain} | {nft} | {near} | {solidity} |
+  {smart-contract}

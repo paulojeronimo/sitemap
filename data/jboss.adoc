@@ -1,5 +1,7 @@
 [#jboss]#JBoss# - https://www.jboss.org/::
-* Texts or Code
+* Texts
+. https://paulojeronimo.com/jboss-domain-mode-scripts/docs/pt-br/ <- article
+* Code
 . https://github.com/paulojeronimo/jboss-domain-mode-scripts
 . https://github.com/paulojeronimo/cluster-jboss-eap-6-test
 . https://github.com/paulojeronimo/poc-vraptor-jboss-cluster

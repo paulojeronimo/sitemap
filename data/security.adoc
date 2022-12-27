@@ -1,3 +1,3 @@
 [#security]#Security#::
-* Related tags: {openpgp} | {openssl} | {keybase} | {gpg} | {oauth} |
+* Related tags: {openpgp} | {openssl} | {keybase} | {gnupg} | {oauth} |
   {jwt} | {ldap} | {keycloak} | {kerberos}

@@ -2,3 +2,4 @@
 * Texts or Code
 . https://paulojeronimo.com/minio-labs/
 .. https://github.com/paulojeronimo/minio-labs
+* Related tags: {aws-s3} | {kubernetes}

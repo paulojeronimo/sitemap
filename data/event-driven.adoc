@@ -1,0 +1,10 @@
+[#event-driven]#Event-Driven#::
+* Definitions
+. https://spring.io/event-driven
+** [[event-driven-architecuture]] Event-Driven Architecture
+.. https://aws.amazon.com/event-driven-architecture/
+.. https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture
+* Texts or Code
+. https://paulojeronimo.com/aws-lambda-labs/
+.. https://github.com/paulojeronimo/aws-lambda-labs/
+* Related tags: {kafka} | {aws-kinesis} | {spring-cloud-dataflow}

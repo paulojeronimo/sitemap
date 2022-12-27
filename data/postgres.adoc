@@ -1,3 +1,4 @@
 [#postgres]#Postgres# - https://www.postgresql.org/::
 * Texts or Code
 . https://github.com/paulojeronimo/spring-boot-api-sample/
+* Related tags: {database}

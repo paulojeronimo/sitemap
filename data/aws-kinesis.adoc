@@ -2,3 +2,4 @@
 * Texts or Code
 . https://paulojeronimo.com/aws-lambda-labs/
 .. https://github.com/paulojeronimo/aws-lambda-labs/
+* Related tags: {event-driven} | {kafka}

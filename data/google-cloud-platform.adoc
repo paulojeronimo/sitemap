@@ -1,0 +1,2 @@
+[#google-cloud-platform]#Google Cloud Platform (GCP)# - https://cloud.google.com/::
+* Related tags: {cloud-platforms}

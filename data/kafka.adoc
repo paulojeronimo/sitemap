@@ -3,3 +3,4 @@
 . https://paulojeronimo.com/kafka-labs/
 .. https://github.com/paulojeronimo/kafka-labs
 . https://paulojeronimo.com/kafka-security/
+* Related tags: {event-driven} | {aws-kinesis}

@@ -1,3 +1,4 @@
 [#aws-s3]#AWS S3# - https://aws.amazon.com/s3/::
 * Texts or Code
 . https://paulojeronimo.com/aws-lambda-labs/
+* Related tags: {minio}

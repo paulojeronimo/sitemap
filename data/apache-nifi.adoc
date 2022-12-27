@@ -2,3 +2,4 @@
 * Texts or Code
 . https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
 . https://paulojeronimo.com/apache-nifi-tutorial/
+* Related tags: {big-data} | {spring-cloud-dataflow}

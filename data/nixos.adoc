@@ -2,4 +2,4 @@
 * Videos
 . https://www.youtube.com/watch?v=esyJk-LTajA&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=2 +
   Hangout Online e Gratuito DevOps com Nix e NixOS
-* Related tags: {nix}
+* Related tags: {linux} | {nix}

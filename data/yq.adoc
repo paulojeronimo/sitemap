@@ -1,6 +1,7 @@
 [#yq]#yq# - https://mikefarah.gitbook.io/yq/::
-* Texts or Code
+* Texts
+. https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
+* Code
+. https://github.com/paulojeronimo/jq-timesheet-tutorial
 . https://github.com/paulojeronimo/near-rust-smart-contract-tutorial-video
-. https://paulojeronimo.com/jq-timesheet-tutorial/singlepage/
-.. https://github.com/paulojeronimo/jq-timesheet-tutorial
 * Related tags: {jq} | {yaml}

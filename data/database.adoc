@@ -1,0 +1,2 @@
+[#database]#Database#::
+* Related tags: {postgres} | {oracle-database} | {big-data}

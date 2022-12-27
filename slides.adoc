@@ -1,6 +1,7 @@
 = Slides
 
-* Written in AsciiDoc format
+* Many of my slides are created using the {asciidoc_} format.
+Here are some examples:
 . https://paulojeronimo.com/whoami/
 . https://paulojeronimo.com/finisher/
 . https://paulojeronimo.com/asciidoc-dzslides-slides/

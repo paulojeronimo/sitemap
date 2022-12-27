@@ -1,5 +1,4 @@
 [#react]#React# - https://reactjs.org/::
-//. https://github.com/paulojeronimo?tab=repositories&q=react
 * Videos
 . https://www.youtube.com/playlist?list=PL2UgI3aRNe-gXKmojaUmM67PSC57CndrC +
    FTFreeWeeks1-1 - Finisher.Tech escrito em React
@@ -16,4 +15,5 @@
 . https://paulojeronimo.com/quarkus-react-sample/
 .. https://github.com/paulojeronimo/quarkus-react-sample
 . https://github.com/paulojeronimo/metas-app-frontend
-* Related tags: {react-native}
+. https://github.com/paulojeronimo/react-clock-basic
+* Related tags: {react-native} | {azure-kubernetes-service}

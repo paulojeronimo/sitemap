@@ -1,0 +1,3 @@
+[#aws]#Amazon Web Services (AWS)# https://aws.amazon.com/::
+* Related tags: {aws-ec2} | {aws-kinesis} | {aws-lambda} | {aws-s3} |
+  {aws-sqs}

@@ -5,3 +5,4 @@
 . https://bitbucket.org/paulojeronimo/parserlexml_nbex/
 . https://github.com/paulojeronimo/groupplus_timesheet
 . https://github.com/paulojeronimo/analise-de-dados-com-python
+* Related tags: {aws-chalice}

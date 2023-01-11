@@ -1,0 +1,8 @@
+[#firebase]#Firebase# - https://firebase.google.com/::
+* Git repositories:
+. https://github.com/paulojeronimo/firebase-web3-authentication-with-moralis-tutorial
+. https://github.com/paulojeronimo/sveltekit-web3-login-tutorial
+* Documents:
+. https://paulojeronimo.com/firebase-web3-authentication-with-moralis-tutorial/
+. https://paulojeronimo.com/sveltekit-web3-login-tutorial/
+* Related tags: {google-cloud-platform}

@@ -31,4 +31,6 @@ include::wikis.adoc[]
 
 include::videos.adoc[]
 
+include::running-applications.adoc[]
+
 include::tags.adoc[]

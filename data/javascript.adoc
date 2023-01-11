@@ -2,8 +2,7 @@
 * Documents:
 . https://paulojeronimo.com/game-tutorial
 . https://finisher.tech/tutorial-1/
-* Running applications:
-. https://finisher.tech/fibonacci-app/
+* See all my <<running-applications>>.
 * Git repositories:
 . https://github.com/paulojeronimo/game-tutorial
 . https://github.com/paulojeronimo/game

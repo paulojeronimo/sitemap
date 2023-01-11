@@ -1,6 +1,6 @@
 [#sveltekit]#SvelteKit# - https://kit.svelte.dev/::
 * Documents:
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
-* Running applications:
+* <<running-applications>>:
 . https://paulojeronimo.com/sveltekit-web3-login/
 * Related tags: {svelte} | {ssg}

@@ -1,0 +1,6 @@
+[[running-applications]]
+= Running applications
+
+. https://finisher.tech/fibonacci-app
+. https://paulojeronimo.com/sveltekit-web3-login/
+. https://sveltekit-web3-login-f0618.web.app/

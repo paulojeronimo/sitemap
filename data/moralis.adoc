@@ -5,4 +5,6 @@
 * Documents:
 . https://paulojeronimo.com/firebase-web3-authentication-with-moralis-tutorial/
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
+* <<running-applications>>:
+. https://sveltekit-web3-login-f0618.web.app/
 * Related tags: {web3} | {smart-contract} | {firebase}

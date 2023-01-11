@@ -4,7 +4,6 @@
    FTFreeWeeks1-1 - Finisher.Tech escrito em React
 * Documents:
 . https://finisher.tech/tutorial-1/
-. https://finisher.tech/fibonacci-app/
 . https://paulojeronimo.com/finishertech-website-tutorial/
 . https://paulojeronimo.com/docker-parcel-react-tutorial/
 . https://paulojeronimo.com/react-parcel-quickstart-tutorial/
@@ -17,4 +16,6 @@
 . https://github.com/paulojeronimo/quarkus-react-sample
 . https://github.com/paulojeronimo/metas-app-frontend
 . https://github.com/paulojeronimo/react-clock-basic
+* <<running-applications>>:
+. https://finisher.tech/fibonacci-app/
 * Related tags: {react-native} | {azure-kubernetes-service} | {ssg}

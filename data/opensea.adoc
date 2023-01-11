@@ -1,4 +1,6 @@
 [#opensea]#OpenSea# - https://opensea.io/::
+* My account:
+. https://opensea.io/paulojeronimo
 * Videos:
 . https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
 * Documents:

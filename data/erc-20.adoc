@@ -1,0 +1,2 @@
+[#erc-20]#ERC-20# - https://ethereum.org/en/developers/docs/standards/tokens/erc-20/::
+* Related tags: {web3} | {token}

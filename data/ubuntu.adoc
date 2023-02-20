@@ -5,4 +5,4 @@
 . https://github.com/paulojeronimo/ubuntu-mirror
 . https://github.com/paulojeronimo/vagrant-ubuntu-oracle-xe
 . https://github.com/paulojeronimo/sislegis-ambiente-ubuntu
-* Related tags: {linux}
+* Related: {linux}

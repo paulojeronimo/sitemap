@@ -8,4 +8,4 @@
 . https://github.com/paulojeronimo/spring-cucumber-rest-api
 . https://github.com/paulojeronimo/spring-boot-api-sample/
 . https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
-* Related tags: {java} | {kotlin} | {groovy}
+* Related: {java} | {kotlin} | {groovy}

@@ -1,2 +1,2 @@
 [#gnupg]#GnuPG# - https://gnupg.org/::
-* Related tags: {keybase} | {openpgp}
+* Related: {keybase} | {openpgp}

@@ -1,6 +1,11 @@
 [[finishertech]]
 = Finisher.Tech
 
+Here you have links about some of the things that I created to
+{uri-paulojeronimo-resume}#finishertech[my current startup].
+Unfortunately, because I had focused on producing content only for
+Portuguese-speaking people, this content is unavailable in English.
+
 . [[finishersdao]]Finishers.DAO is a {uri-google-search-dao}[Distributed
   Autonomous Organization^] that I initiated.
 .. Video about it: https://www.youtube.com/watch?v=o-5leul6v_w

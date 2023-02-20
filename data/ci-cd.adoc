@@ -1,0 +1,2 @@
+[#ci-cd]#CI/CD# - https://www.wildfly.org://en.wikipedia.org/wiki/CI/CD::
+* Related: {devops} | {github-actions} | {jenkins} | {aws-codepipeline}

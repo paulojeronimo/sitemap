@@ -10,4 +10,4 @@
 . https://github.com/paulojeronimo/openshift-javaee-helloworld
 . https://github.com/paulojeronimo/curso-javaee
 . https://github.com/paulojeronimo/java-fundamentals-examples
-* Related tags: {javaee} | {spring-boot}
+* Related: {javaee} | {spring-boot}

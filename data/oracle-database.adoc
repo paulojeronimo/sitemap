@@ -2,4 +2,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/docker-oracle-xe
 . https://github.com/paulojeronimo/vagrant-ubuntu-oracle-xe
-* Related tags: {database}
+* Related: {database}

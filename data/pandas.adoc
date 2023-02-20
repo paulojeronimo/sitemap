@@ -1,0 +1,4 @@
+[#pandas]#pandas# - https://pandas.pydata.org/::
+* Git repositories:
+. https://github.com/paulojeronimo/analise-de-dados-com-python
+* Related: {python}

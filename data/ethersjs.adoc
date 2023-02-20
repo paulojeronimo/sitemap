@@ -1,2 +1,2 @@
 [#ethersjs]#Ethers.js# - https://docs.ethers.org/::
-* Related tags: {web3} | {web3js}
+* Related: {web3} | {web3js}

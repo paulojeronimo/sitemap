@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/microservices-on-openshift
 * Git repositories:
 . https://github.com/paulojeronimo/microservices-on-openshift
-* Related tags: {spring-boot} | {nodejs}
+* Related: {spring-boot} | {nodejs}

@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/aks-with-github-actions-tutorial/
 * Git repositories:
 . https://github.com/paulojeronimo/react-clock-basic
-* Related tags: {microsoft-azure} | {react}
+* Related: {microsoft-azure} | {react}

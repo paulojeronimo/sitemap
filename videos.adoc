@@ -1,12 +1,24 @@
 [[videos]]
 = Videos
 
-* *YouTube*:
+As I said <<more-video-production,here>>, since 2022, I have been honing
+my skills in video production, and from 2023 I intend to produce many
+more videos.
+The most current technical content I published is on <<odysee,Odysee>>,
+a Web3 video platform I use a lot.
+However, since the end of 2022, I have also started using
+<<youtube,YouTube>> again.
+
+Many times, when I want to create videos related to the command line
+only and without any sound, I use also like to use and publish videos on
+<<asciinema,asciinema>>.
+
+* [[odysee]] *Odysee*: https://odysee.com/@paulojeronimo:4
+* [[youtube]] *YouTube*:
 . https://www.youtube.com/~paulojeronimo
 . Created for <<finishertech,my current company>>:
 .. https://www.youtube.com/@FinisherTech
 .. https://www.youtube.com/@SaudeECripto
 . Created for {uri-ladoservidor}[my past company^]:
 .. https://www.youtube.com/~ladoservidor
-* *Odysee*: https://odysee.com/@paulojeronimo:4
-* *Asciinema*: https://asciinema.org/~paulojeronimo
+* [[asciinema]] *Asciinema*: https://asciinema.org/~paulojeronimo

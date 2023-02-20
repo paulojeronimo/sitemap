@@ -3,6 +3,11 @@ set -eou pipefail
 
 cd "$(dirname "$0")"
 echo -e '= [[tutorials]] Articles or Tutorials\n' > tutorials.adoc
+cat <<'EOF'>> tutorials.adoc
+
+include::tutorials-head.adoc[]
+
+EOF
 regex='^. https:\/\/paulojeronimo.com\/.*\(labs\|tutorial\|presentation\|article\)'
 tag_tutorials=
 for tag in data/*

@@ -1,2 +1,2 @@
 [#erc-1155]#ERC-1155# - https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/::
-* Related tags: {web3} | {token}
+* Related: {web3} | {token}

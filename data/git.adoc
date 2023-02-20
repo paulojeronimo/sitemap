@@ -6,3 +6,4 @@
 . https://github.com/paulojeronimo/git-labs
 . https://github.com/paulojeronimo/praticando-git-livro
 . https://github.com/paulojeronimo/tutorial-git-github
+* Related: <<git-repositories>>

@@ -15,4 +15,4 @@
 . https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
 . https://github.com/paulojeronimo/tutorial-keycloak
 . https://github.com/paulojeronimo/gerador-jboss-bpmsuite-keycloak
-* Related tags: {jboss} | {rh-sso}
+* Related: {jboss} | {rh-sso}

@@ -1,0 +1,11 @@
+Beyond {uri-paulojeronimo-posts}[my blog posts], available in the same
+Git repo as my leading site, I also have individual Git repositories for
+many tutorials and articles listed below.
+That causes the need for this sitemap (to keep a central point where I
+can share all my content).
+
+My daily work involves writing and producing PoCs about what I want to
+learn or practice.
+Also, I’ve always been more into writing than creating videos.
+[[more-video-production]] But, starting in 2022, I’m also investing a
+lot of time to perfect myself in producing more <<videos>>.

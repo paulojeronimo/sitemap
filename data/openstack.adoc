@@ -3,4 +3,4 @@
 . https://www.youtube.com/playlist?list=PL2UgI3aRNe-gBpb9KHnO_n95tu5_lBHFr +
    FTFreeWeeks1-2 - Introdução ao OpenStack - May 2, 2020
 //. https://github.com/paulojeronimo/finishertech-openstack-tutorial
-* Related tags: {openshift} | {linux-containers}
+* Related: {cloud-platforms} | {openshift} | {linux-containers}

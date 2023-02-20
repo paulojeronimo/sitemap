@@ -1,4 +1,4 @@
 [#mustache]#Mustache# - https://mustache.github.io/::
 * Git repositories:
 . https://github.com/paulojeronimo/paulojeronimo.github.io
-* Related tags: {javascript} | {nunjucks}
+* Related: {javascript} | {nunjucks}

@@ -1,6 +1,20 @@
 [[git-repositories]]
 = Git repositories
 
+:uri-first-public-github-repo: https://github.com/paulojeronimo/curso-javaee
+
+{uri-first-public-github-repo}[My first public GitHub repo] was created
+in 2013, but before this, I used it in private organizations.
+Before using Git, I was using {subversion}.
+Currently, I don't use any other version control system.
+I have Git repositories scattered in various places. But basically, I
+use GitHub more often.
+Sometimes, to separate things by categorizing them by brand, company, or
+project I worked on, I create an organization on GitHub and organize the
+repositories within it.
+Beyond my public repositories on this system, I also have many private
+Git repositories.
+
 * [[github]] *GitHub*:
 . https://github.com/paulojeronimo <-
 My main git repository (created on 2013).

@@ -3,4 +3,5 @@
 . https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
 * Documents:
 . https://paulojeronimo.com/ethereum-nft-tutorial/
-* Related tags: {web3}
+* I have <<running-applications>> related to this tech.
+* Related: {web3}

@@ -4,4 +4,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/jq-timesheet-tutorial
 . https://github.com/paulojeronimo/near-rust-smart-contract-tutorial-video
-* Related tags: {jq} | {yaml}
+* Related: {jq} | {yaml}

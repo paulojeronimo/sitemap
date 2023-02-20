@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/bosh-lite-tutorial/
 * Git repositories:
 . https://github.com/paulojeronimo/bosh-lite-tutorial
-* Related tags: {cloud-platforms}
+* Related: {cloud-platforms}

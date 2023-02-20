@@ -5,5 +5,5 @@
 . https://paulojeronimo.com/chupa-cabra-sisam-inpe/
 * Git repositories:
 . https://github.com/paulojeronimo/chupa-cabra-sisam-inpe
-* Related tags: {cloud-platforms} | {apache-nifi} |
+* Related: {cloud-platforms} | {apache-nifi} |
   {spring-cloud-dataflow} | {database}

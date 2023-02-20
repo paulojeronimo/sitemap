@@ -15,4 +15,4 @@
 * Blog posts
 . https://paulojeronimo.com/posts/nft-week-1-encontro-2/
 . https://paulojeronimo.com/posts/nft-week-1/
-* Related tags: {web3} | {ethereum} | {solidity} | {near}
+* Related: {web3} | {ethereum} | {solidity} | {near}

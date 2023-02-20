@@ -2,4 +2,4 @@
 * Anything that I write is written in AsciiDoc format!
 * Documents:
 . https://paulojeronimo.com/asciidoc-e-asciidoctor/ <- article
-* Related tags: {asciidoctor_}
+* Related: {asciidoctor_}

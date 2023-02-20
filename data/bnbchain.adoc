@@ -1,2 +1,2 @@
 [#bnbchain]#BNB Chain# - https://www.bnbchain.org::
-* Related tags: {web3}
+* Related: {web3}

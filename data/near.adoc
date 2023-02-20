@@ -5,4 +5,4 @@
 . https://paulojeronimo.com/near-greeting-frontend-tutorial/
 * Git repositories:
 . https://github.com/paulojeronimo/near-greeting-frontend-tutorial
-* Related tags: {smart-contract} | {dapp} | {blockchain}
+* Related: {smart-contract} | {dapp} | {blockchain}

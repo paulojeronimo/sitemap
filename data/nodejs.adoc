@@ -4,4 +4,4 @@
 . https://github.com/paulojeronimo/npm-package-test
 . https://github.com/paulojeronimo/npm-package-use
 . https://github.com/paulojeronimo/jwt-refresh-token
-* Related tags: {javascript} | {typescript}
+* Related: {javascript} | {typescript}

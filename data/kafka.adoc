@@ -5,4 +5,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/kafka-labs
 . https://github.com/paulojeronimo/kafka-security
-* Related tags: {event-driven} | {aws-kinesis}
+* Related: {event-driven} | {aws-kinesis}

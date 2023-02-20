@@ -16,5 +16,5 @@
 . https://finisher.tech/mentoria.pdf
 . https://paulojeronimo.com/ethereum-tutorial-cotidiano/
 . https://paulojeronimo.com/ethereum-tutorial/
-* Related tags: {web3} | {blockchain} | {nft} | {near} | {solidity} |
+* Related: {web3} | {blockchain} | {nft} | {near} | {solidity} |
   {smart-contract}

@@ -8,4 +8,4 @@
 . https://paulojeronimo.com/aws-lambda-labs/
 * Git repositories:
 . https://github.com/paulojeronimo/aws-lambda-labs/
-* Related tags: {kafka} | {aws-kinesis} | {spring-cloud-dataflow}
+* Related: {kafka} | {aws-kinesis} | {spring-cloud-dataflow}

@@ -1,2 +1,2 @@
 [#ipfs]#IPFS# - https://ipfs.tech/::
-* Related tags: {web3}
+* Related: {web3}

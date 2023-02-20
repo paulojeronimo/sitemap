@@ -1,2 +1,2 @@
 [#hardhat]#Hardhat# - https://hardhat.org/::
-* Related tags: {web3} | {truffle}
+* Related: {web3} | {truffle}

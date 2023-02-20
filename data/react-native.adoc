@@ -3,4 +3,4 @@
   Native code that I developed for {finishertech}.
 I will do this soon as soon as I publish the first versions of some
 projects.
-* Related tags: {react}
+* Related: {react}

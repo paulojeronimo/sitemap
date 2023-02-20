@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/bdd-tutorial/
 * Git repositories:
 . https://github.com/paulojeronimo/metas-app-features
-* Related tags: {cucumber}
+* Related: {cucumber}

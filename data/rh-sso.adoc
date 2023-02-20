@@ -4,4 +4,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/rh-sso-ldap-lab
 . https://github.com/paulojeronimo/rh-sso-manage-users
-* Related tags: {keycloak}
+* Related: {keycloak}

@@ -1,2 +1,2 @@
 [#web3js]#Web3.js# - https://web3js.readthedocs.io/::
-* Related tags: {web3}
+* Related: {web3}

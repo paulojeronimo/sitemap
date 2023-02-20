@@ -6,4 +6,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/jq-timesheet-tutorial
 . https://github.com/paulojeronimo/jq-labs
-* Related tags: {yq}
+* Related: {yq}

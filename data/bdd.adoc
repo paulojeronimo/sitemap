@@ -3,4 +3,4 @@
 . https://github.com/paulojeronimo/metas-app-features
 * Documents:
 . https://paulojeronimo.com/bdd-tutorial/
-* Related tags: {tdd}
+* Related: {tdd}

@@ -11,4 +11,4 @@
 . https://paulojeronimo.com
 .. https://github.com/paulojeronimo/paulojeronimo.github.io
 * <<slides,My slides>>
-* Related tags: {asciidoc} | {ssg}
+* Related: {asciidoc} | {ssg}

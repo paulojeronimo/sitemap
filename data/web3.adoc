@@ -10,5 +10,5 @@
 . https://paulojeronimo.com/sveltekit-web3-login/
 * Blog posts:
 . https://paulojeronimo.com/posts/web3-para-confianca/
-* Related tags: {blockchain} | {ethereum} | {solidity} | {near} | {nft}
+* Related: {blockchain} | {ethereum} | {solidity} | {near} | {nft}
   | {moralis}

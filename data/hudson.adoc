@@ -1,0 +1,2 @@
+[#hudson]#Hudson# - https://en.wikipedia.org/wiki/Hudson_(software)::
+* Related: {ci-cd} | {jenkins}

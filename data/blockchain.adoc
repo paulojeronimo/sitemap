@@ -8,4 +8,4 @@
 . https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
 . https://blockchain4devs.github.io/dfjug1ano/
 . https://paulojeronimo.com/blockchain-em-metas <- article
-* Related tags: {ethereum} | {web3} | {solidity} | {nft} | {near}
+* Related: {ethereum} | {web3} | {solidity} | {nft} | {near}

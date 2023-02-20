@@ -1,2 +1,2 @@
 [#smart-contract]#Smart Contract# - https://en.wikipedia.org/wiki/Smart_contract::
-* Related tags: {dapp} | {solidity} | {rust} | {nft} | {moralis}
+* Related: {dapp} | {solidity} | {rust} | {nft} | {moralis}

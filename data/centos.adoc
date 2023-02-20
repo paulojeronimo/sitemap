@@ -2,4 +2,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/mirrors
 . https://github.com/paulojeronimo/sislegis-ambiente-centos
-* Related tags: {linux}
+* Related: {linux}

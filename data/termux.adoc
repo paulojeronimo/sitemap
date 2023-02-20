@@ -7,4 +7,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/termux-presentation
 . https://github.com/paulojeronimo/termux-docker
-* Related tags: {android}
+* Related: {android}

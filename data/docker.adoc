@@ -12,4 +12,4 @@
 . https://github.com/paulojeronimo/docker-oracle-xe
 * Documents:
 . https://paulojeronimo.com/docker-parcel-react-tutorial/
-* Related tags: {kubernetes}
+* Related: {kubernetes}

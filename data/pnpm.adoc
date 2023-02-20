@@ -1,0 +1,2 @@
+[#pnpm]#pnpm# - https://pnpm.io/::
+* Related: {nodejs} | {npm}

@@ -1,4 +1,4 @@
 [#rust]#Rust# - https://www.rust-lang.org/::
 * Documents:
 . https://paulojeronimo.com/near-rust-smart-contract-tutorial/
-* Related tags: {near}
+* Related: {near}

@@ -1,4 +1,4 @@
 [#angularjs]#AngularJS# - https://angularjs.org::
 * Git repositories:
 . https://github.com/paulojeronimo/sislegis-app-frontend
-* Related tags: {javascript}
+* Related: {javascript}

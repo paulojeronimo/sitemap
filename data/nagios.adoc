@@ -1,0 +1,2 @@
+[#nagios]#Nagios# - https://www.nagios.org/::
+* Related: {monitoring}

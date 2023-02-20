@@ -1,9 +1,12 @@
 = About
 
 This page is a kind of {sitemap} where, beyond my {blog-posts}, I
-({paulojeronimo}) publish some <<finishertech,links related to my
-current company>> and others related to code on my <<git-repositories>>,
-<<slides>>, <<articles-or-tutorials>>, <<videos>>, and <<wikis>>.
+({paulojeronimo}) centralize some of my publish links related to
+<<finishertech, my current company>> and others about: my
+<<git-repositories>>, <<slides>>, <<articles-or-tutorials>>, <<videos>>,
+<<running-applications>>, and <<wikis>>.
+Finally, in the section <<tags>>, I group my content related to a
+specific tech topic.
 
 [WARNING]
 ====

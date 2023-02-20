@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/apache-nifi-tutorial/
 * Git repositories:
 . https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
-* Related tags: {big-data} | {spring-cloud-dataflow}
+* Related: {big-data} | {spring-cloud-dataflow}

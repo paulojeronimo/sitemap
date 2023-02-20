@@ -1,0 +1,2 @@
+[#devops]#DevOps# - https://en.wikipedia.org/wiki/DevOps::
+* Related: {linux} | {middleware} | {cloud-platforms} | {ci-cd}

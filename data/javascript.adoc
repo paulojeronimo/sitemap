@@ -2,10 +2,10 @@
 * Documents:
 . https://paulojeronimo.com/game-tutorial
 . https://finisher.tech/tutorial-1/
-* See all my <<running-applications>>.
 * Git repositories:
 . https://github.com/paulojeronimo/game-tutorial
 . https://github.com/paulojeronimo/game
 . https://github.com/paulojeronimo/javascript-cucumber-sample
 . https://github.com/paulojeronimo/simple-es6-tdd-example
-* Related tags: {typescript}
+* I have <<running-applications>> related to this tech.
+* Related: {typescript}

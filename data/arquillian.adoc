@@ -1,4 +1,4 @@
 [#arquillian]#Arquillian# - http://arquillian.org/::
 * Documents:
 . https://paulojeronimo.com/javaee-tutorial-testes/
-* Related tags: {microservices} | {testing}
+* Related: {microservices} | {testing} | {javaee}

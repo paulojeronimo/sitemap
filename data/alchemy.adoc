@@ -1,2 +1,2 @@
 [#alchemy]#Alchemy# - https://www.alchemy.com/::
-* Related tags: {web3}
+* Related: {web3}

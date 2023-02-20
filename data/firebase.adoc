@@ -5,4 +5,4 @@
 * Documents:
 . https://paulojeronimo.com/firebase-web3-authentication-with-moralis-tutorial/
 . https://paulojeronimo.com/sveltekit-web3-login-tutorial/
-* Related tags: {google-cloud-platform}
+* Related: {google-cloud-platform}

@@ -6,4 +6,4 @@
 . https://paulojeronimo.com/microservices-on-openshift <- tutorial
 * Git repositories:
 . https://github.com/paulojeronimo/openshift-javaee-helloworld
-* Related tags: {kubernetes}
+* Related: {cloud-platforms} | {kubernetes}

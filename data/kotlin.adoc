@@ -4,4 +4,4 @@
    Kotlin Koans
 * Git repositories:
 . https://github.com/paulojeronimo/mobilityhacklisbon
-* Related tags: {java}
+* Related: {java}

@@ -1,2 +1,2 @@
 [#android]#Android# - https://github.com/termux/termux-app::
-* Related tags: {java} | {kotlin} | {termux}
+* Related: {java} | {kotlin} | {termux}

@@ -3,4 +3,4 @@
 . https://github.com/paulojeronimo/middleman-guides
 . https://github.com/paulojeronimo/middleman-box
 . https://github.com/paulojeronimo/middleman-asciidoc-example
-* Related tags: {ssg}
+* Related: {ssg}

@@ -2,17 +2,21 @@
 set -eou pipefail
 
 cd "$(dirname "$0")"
-echo -e '= Tags\n' > tags.adoc
-echo -e '.NUMBER_OF_TAGS tags:\n****\n' >> tags.adoc
+echo -e '[[tags]]\n= Technologies\n' > tags.adoc
+echo -e '.NUMBER_OF_TAGS tech topics are listed here:\n****\n' >> tags.adoc
 tags=$(ls data | sed 's/\.adoc//g')
 sed 's/\(.*\)/{\1}/g' <<< "$tags" | \
   xargs | sed 's/ / | /g' >> tags.adoc
 echo '****' >> tags.adoc
 rm -f tag-attributes.adoc
+mkdir -p build/data
+count=1
 add-tag() {
   echo -e ":$1: <<$1,$1>>" >> tag-attributes.adoc
   echo -e ":$1_: <<$1,$2>>" >> tag-attributes.adoc
-  echo -e "\ninclude::data/$1.adoc[]" >> tags.adoc
+  sed "s/\(^\[#.*\]#\)/\1$count. $1 - /g" data/$1.adoc > build/data/$1.adoc
+  echo -e "\ninclude::build/data/$1.adoc[]" >> tags.adoc
+  (( count += 1 ))
 }
 for tag in $tags
 do

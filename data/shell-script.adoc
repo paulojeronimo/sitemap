@@ -1,0 +1,2 @@
+[#shell-script]#Shell Script# - https://en.wikipedia.org/wiki/Shell_script::
+* Related: {bash} | {linux}

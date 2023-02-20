@@ -1,6 +1,11 @@
 [[wikis]]
 = Wikis
 
-* Written with {tiddlywiki_}
+A non-linear way I use to write is by creating a Wiki.
+In this way, I evolve and separate subjects by topics and relate them in
+a way that often offers me more focus. Here are some of the wikis I've
+produced using the best tool I've ever found to write in this format
+({tiddlywiki_}):
+
 . https://paulojeronimo.com/wiki/
 . https://paulojeronimo.com/tw-metas/

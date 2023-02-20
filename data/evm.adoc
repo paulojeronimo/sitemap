@@ -1,2 +1,2 @@
 [#evm]#Ethereum Virtual Machine (EVM)# - https://ethereum.org/en/developers/docs/evm/::
-* Related tags: {web3}
+* Related: {web3}

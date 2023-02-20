@@ -4,4 +4,4 @@
 . https://github.com/paulojeronimo/sislegis-ambiente-fedora
 . https://github.com/paulojeronimo/fedora-vm
 . https://github.com/paulojeronimo/pj-fedora
-* Related tags: {linux}
+* Related: {linux}

@@ -1,3 +1,3 @@
 [#tiddlywiki]#Tiddlywiki# - https://tiddlywiki.com/::
 * <<wikis,My wikis>>
-* Related tags: {javascript}
+* Related: {javascript}

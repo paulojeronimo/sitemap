@@ -3,4 +3,4 @@
 . https://paulojeronimo.com/spring-cloud-dataflow-labs/
 * Git repositories:
 . https://github.com/paulojeronimo/spring-cloud-dataflow-labs
-* Related tags: {big-data} | {apache-nifi} | {spring-boot}
+* Related: {big-data} | {apache-nifi} | {spring-boot}

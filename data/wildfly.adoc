@@ -1,4 +1,4 @@
 [#wildfly]#Wildfly# - https://www.wildfly.org/::
 * Git repositories:
 . https://github.com/paulojeronimo/wildfly-native-management-api-sample
-* Related tags: {jboss}
+* Related: {jboss}

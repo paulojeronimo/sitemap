@@ -1,2 +1,2 @@
 [#nunjucks]#Nunjucks# - https://mozilla.github.io/nunjucks/::
-* Related tags: {javascript} | {mustache}
+* Related: {javascript} | {mustache}

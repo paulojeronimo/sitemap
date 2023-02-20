@@ -5,4 +5,4 @@
 * Git repositories:
 . https://github.com/paulojeronimo/kogito-quickstart-with-docker-compose/
 . https://github.com/paulojeronimo/docker-compose-nifi-cluster/
-* Related tags: {docker}
+* Related: {docker}

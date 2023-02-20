@@ -1,0 +1,7 @@
+[#kotlin]#77. kotlin - Kotlin# - https://kotlinlang.org/::
+* Videos
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_QaIpg1Ov3H9LXnNpL5HB- +
+   Kotlin Koans
+* Git repositories:
+. https://github.com/paulojeronimo/mobilityhacklisbon
+* Related: {java}

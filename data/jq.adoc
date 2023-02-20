@@ -1,0 +1,9 @@
+[#jq]#69. jq - jq# - https://stedolan.github.io/jq/::
+* Documents:
+. https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
+* Blog posts
+. https://paulojeronimo.com/posts/bash-api-test/
+* Git repositories:
+. https://github.com/paulojeronimo/jq-timesheet-tutorial
+. https://github.com/paulojeronimo/jq-labs
+* Related: {yq}

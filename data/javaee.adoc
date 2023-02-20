@@ -1,0 +1,9 @@
+[#javaee]#64. javaee - Java EE# - https://www.oracle.com/java/technologies/java-ee-glance.html/::
+* Documents:
+. https://paulojeronimo.com/javaee-tutorial-testes/
+* Git repositories:
+. https://github.com/paulojeronimo/javaee-ambiente
+. https://github.com/paulojeronimo/javaee-tutorial-testes
+. https://github.com/paulojeronimo/sislegis-app
+. https://github.com/paulojeronimo/curso-javaee
+* Related: {java} | {arquillian} | {quarkus}

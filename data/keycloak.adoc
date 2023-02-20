@@ -1,0 +1,18 @@
+[#keycloak]#75. keycloak - Keycloak# - https://www.keycloak.org/::
+* Documents:
+. https://paulojeronimo.com/keycloak-robot-integration-demo <- article
+. https://paulojeronimo.com/keycloak-robot-integration/ <- article
+. https://paulojeronimo.com/keycloak-labs/
+. https://paulojeronimo.com/keycloak-matrix/ <- article
+. https://paulojeronimo.com/responsabilidades-keycloak <- article
+. https://paulojeronimo.com/keycloak-spring-boot-tutorial
+. https://paulojeronimo.com/tutorial-keycloak/
+* Git repositories:
+. https://github.com/paulojeronimo/keycloak-robot-integration-demo
+. https://github.com/paulojeronimo/keycloak-labs
+. https://github.com/paulojeronimo/keycloak-matrix
+. https://github.com/paulojeronimo/responsabilidades-keycloak
+. https://github.com/paulojeronimo/keycloak-spring-boot-tutorial
+. https://github.com/paulojeronimo/tutorial-keycloak
+. https://github.com/paulojeronimo/gerador-jboss-bpmsuite-keycloak
+* Related: {jboss} | {rh-sso}

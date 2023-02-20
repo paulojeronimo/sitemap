@@ -1,0 +1,3 @@
+[#cloud-platforms]#30. cloud-platforms - Cloud Platforms#::
+* Related: {openstack} | {openshift} | {aws} | {cloud-foundry} |
+  {google-cloud-platform} | {microsoft-azure}

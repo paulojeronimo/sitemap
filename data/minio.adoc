@@ -1,0 +1,6 @@
+[#minio]#87. minio - MinIO# - https://min.io/::
+* Documents:
+. https://paulojeronimo.com/minio-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/minio-labs
+* Related: {aws-s3} | {kubernetes}

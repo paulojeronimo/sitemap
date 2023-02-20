@@ -1,0 +1,4 @@
+[#groovy]#56. groovy - Groovy# - https://groovy-lang.org/::
+* Git repositories:
+. https://github.com/paulojeronimo/java-enums-generator
+* Related: {java}

@@ -1,0 +1,8 @@
+[#kafka]#71. kafka - Kafka# - https://kafka.apache.org/::
+* Documents:
+. https://paulojeronimo.com/kafka-labs/
+. https://paulojeronimo.com/kafka-security/ <- tutorial
+* Git repositories:
+. https://github.com/paulojeronimo/kafka-labs
+. https://github.com/paulojeronimo/kafka-security
+* Related: {event-driven} | {aws-kinesis}

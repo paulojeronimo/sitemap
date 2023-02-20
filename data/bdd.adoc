@@ -1,0 +1,6 @@
+[#bdd]#23. bdd - BDD# - https://en.wikipedia.org/wiki/Behavior-driven_development::
+* Git repositories:
+. https://github.com/paulojeronimo/metas-app-features
+* Documents:
+. https://paulojeronimo.com/bdd-tutorial/
+* Related: {tdd}

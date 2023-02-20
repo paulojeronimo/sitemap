@@ -1,0 +1,2 @@
+[#erc-721]#40. erc-721 - ERC-721# - https://ethereum.org/en/developers/docs/standards/tokens/erc-721/::
+* Related: {web3} | {token}

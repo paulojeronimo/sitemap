@@ -1,0 +1,9 @@
+[#big-data]#24. big-data - Big Data# - https://www.oracle.com/big-data/what-is-big-data/::
+* Documents:
+. https://paulojeronimo.com/apache-nifi-tutorial/
+. https://paulojeronimo.com/spring-cloud-dataflow-labs/
+. https://paulojeronimo.com/chupa-cabra-sisam-inpe/
+* Git repositories:
+. https://github.com/paulojeronimo/chupa-cabra-sisam-inpe
+* Related: {cloud-platforms} | {apache-nifi} |
+  {spring-cloud-dataflow} | {database}

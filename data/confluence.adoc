@@ -1,0 +1,3 @@
+[#confluence]#31. confluence - Confluence# - https://www.atlassian.com/software/confluence::
+* Documents:
+. https://paulojeronimo.com/confluence-asciidoc-integration-alternatives/ <- article

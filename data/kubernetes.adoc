@@ -1,0 +1,8 @@
+[#kubernetes]#78. kubernetes - Kubernetes# - https://kubernetes.io/::
+* Documents:
+. https://paulojeronimo.com/kubernetes-labs/
+. https://paulojeronimo.com/aks-with-github-actions-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/kubernetes-labs
+. https://github.com/paulojeronimo/aks-with-github-actions-tutorial
+* Related: {docker}

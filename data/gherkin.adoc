@@ -1,0 +1,6 @@
+[#gherkin]#49. gherkin - Gherkin# - https://cucumber.io/docs/gherkin/::
+* Documents:
+. https://paulojeronimo.com/bdd-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/metas-app-features
+* Related: {cucumber}

@@ -1,0 +1,6 @@
+[#archlinux]#7. archlinux - Arch Linux# - https://archlinux.org/::
+* Git repositories:
+. https://github.com/paulojeronimo/arch-boxes
+. https://github.com/paulojeronimo/archlinux-installer
+. https://github.com/paulojeronimo/archlinux-mirror-synchronizer
+* Related: {linux}

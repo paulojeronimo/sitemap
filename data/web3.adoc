@@ -1,0 +1,14 @@
+[#web3]#151. web3 - Web3# - https://en.wikipedia.org/wiki/Web3::
+* Videos:
+. https://odysee.com/@paulojeronimo/web3
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz-gURtHQC5J-_lw6QB_DD7Y +
+   Web3
+* Documents:
+. https://paulojeronimo.com/cv/en/resume-web3.html
+. https://paulojeronimo.com/sveltekit-web3-login-tutorial/
+* Running applications:
+. https://paulojeronimo.com/sveltekit-web3-login/
+* Blog posts:
+. https://paulojeronimo.com/posts/web3-para-confianca/
+* Related: {blockchain} | {ethereum} | {solidity} | {near} | {nft}
+  | {moralis}

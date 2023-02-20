@@ -1,0 +1,7 @@
+[#rh-sso]#124. rh-sso - RH-SSO# - https://access.redhat.com/products/red-hat-single-sign-on::
+* Documents:
+. https://paulojeronimo.com/rh-sso-manage-users/
+* Git repositories:
+. https://github.com/paulojeronimo/rh-sso-ldap-lab
+. https://github.com/paulojeronimo/rh-sso-manage-users
+* Related: {keycloak}

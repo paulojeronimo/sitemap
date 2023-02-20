@@ -1,0 +1,2 @@
+[#token]#144. token - Token# - https://ethereum.org/en/developers/docs/standards/tokens/::
+* Related: {web3} | {erc-20} | {erc-721} | {erc-1155}

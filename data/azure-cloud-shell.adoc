@@ -1,0 +1,6 @@
+[#azure-cloud-shell]#20. azure-cloud-shell - Azure Cloud Shell# - https://learn.microsoft.com/en-us/azure/cloud-shell/::
+* Documents:
+. https://paulojeronimo.com/aks-with-github-actions-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/react-clock-basic
+* Related: {microsoft-azure} | {react}

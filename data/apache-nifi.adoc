@@ -1,0 +1,6 @@
+[#apache-nifi]#4. apache-nifi - Apache NiFi# - https://nifi.apache.org::
+* Documents:
+. https://paulojeronimo.com/apache-nifi-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/apache-nifi-cluster-alternatives
+* Related: {big-data} | {spring-cloud-dataflow}

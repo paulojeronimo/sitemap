@@ -1,0 +1,4 @@
+[#solidity]#130. solidity - Solidity# - https://docs.soliditylang.org/en/::
+* Git repositories:
+. https://github.com/paulojeronimo/mymedals.nft
+* Related: {web3} | {ethereum} | {nft} | {blockchain} | {near}

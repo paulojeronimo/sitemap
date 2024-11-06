@@ -1,0 +1,11 @@
+[#blockchain]#25. blockchain - Blockchain# - https://en.wikipedia.org/wiki/Blockchain::
+* Videos:
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V +
+  Blockchain (2017) - Jul 29, 2017
+. https://www.youtube.com/watch?v=YVj9B8A6SJY&list=PL3jVhh9mXmz9gFjaw_IexV_gyN2I_GIub&index=8 +
+  Blockchain - Jul 22, 2017
+* Documents:
+. https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
+. https://blockchain4devs.github.io/dfjug1ano/
+. https://paulojeronimo.com/blockchain-em-metas <- article
+* Related: {ethereum} | {web3} | {solidity} | {nft} | {near}

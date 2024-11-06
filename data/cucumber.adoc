@@ -1,0 +1,10 @@
+[#cucumber]#32. cucumber - Cucumber# - https://cucumber.io/::
+* Documents:
+. https://paulojeronimo.com/bdd-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/java-cucumber-sample
+. https://github.com/paulojeronimo/spring-cucumber-rest-api
+. https://github.com/paulojeronimo/javascript-cucumber-sample
+. https://github.com/paulojeronimo/typescript-jest-cucumber-sample
+. https://github.com/paulojeronimo/metas-app-features
+* Related: {bdd} | {gherkin}

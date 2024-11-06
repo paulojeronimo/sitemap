@@ -1,0 +1,4 @@
+[#aws-s3]#17. aws-s3 - AWS S3# - https://aws.amazon.com/s3/::
+* Documents:
+. https://paulojeronimo.com/aws-lambda-labs/
+* Related: {minio}

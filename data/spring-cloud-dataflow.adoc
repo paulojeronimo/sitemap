@@ -1,0 +1,6 @@
+[#spring-cloud-dataflow]#132. spring-cloud-dataflow - Spring Cloud Data Flow# - https://spring.io/projects/spring-cloud-dataflow::
+* Documents:
+. https://paulojeronimo.com/spring-cloud-dataflow-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/spring-cloud-dataflow-labs
+* Related: {big-data} | {apache-nifi} | {spring-boot}

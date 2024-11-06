@@ -1,0 +1,13 @@
+[#vagrant]#150. vagrant - Vagrant# - https://www.vagrantup.com/::
+* Documents:
+. https://paulojeronimo.com/tutorial-vagrant/
+* Git repositories:
+. https://github.com/paulojeronimo/producao-computacao-ead-ufpb-box
+. https://github.com/paulojeronimo/middleman-box
+. https://github.com/paulojeronimo/tutorial-vagrant
+. https://github.com/paulojeronimo/sislegis-ambiente-ubuntu
+. https://github.com/paulojeronimo/sislegis-ambiente-fedora
+. https://github.com/paulojeronimo/sislegis-ambiente-centos
+. https://github.com/paulojeronimo/sislegis-ambiente-producao
+. https://github.com/paulojeronimo/vagrant-ubuntu-oracle-xe
+* Related: {iac} | {terraform}

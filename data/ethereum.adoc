@@ -1,0 +1,20 @@
+[#ethereum]#41. ethereum - Ethereum# - https://ethereum.org/en/::
+* Videos:
+. https://odysee.com/@paulojeronimo/ethereum
+.. https://odysee.com/@paulojeronimo:4/ethereum-helloworld-tutorial:b
+.. https://odysee.com/@paulojeronimo:4/ftecm221-corte001:6
+. https://www.youtube.com/playlist?list=PL3jVhh9mXmz8KSba2NOENx_8qb58Ws7hr +
+  Ethereum (2018)
+* Git repositories:
+. https://github.com/paulojeronimo/mobilityhacklisbon
+. https://github.com/paulojeronimo/ethereum-tutorial-cotidiano
+. https://github.com/paulojeronimo/ethereum-ribon-poc
+. https://github.com/paulojeronimo/ethereum-tutorial
+* Documents:
+. https://paulojeronimo.com/ethereum-helloworld-tutorial/
+. https://paulojeronimo.com/ethereum-pet-shop-tutorial/
+. https://finishertech.paulojeronimo.com/mentoria.pdf
+. https://paulojeronimo.com/ethereum-tutorial-cotidiano/
+. https://paulojeronimo.com/ethereum-tutorial/
+* Related: {web3} | {blockchain} | {nft} | {near} | {solidity} |
+  {smart-contract}

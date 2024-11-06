@@ -1,0 +1,5 @@
+[#github-pages]#52. github-pages - GitHub Pages# - https://pages.github.com/::
+* The entire content of my website is currently published on GitHub
+  Pages in a decentralized way.
+Each piece of content is in its Git repository and is published
+individually using a proper script to do this.

@@ -1,0 +1,4 @@
+[#oauth]#103. oauth - OAuth# - https://en.wikipedia.org/wiki/OAuth::
+* Git repositories:
+. https://github.com/paulojeronimo/oauth-uaa-sample
+. https://github.com/paulojeronimo/oauth2-boot2

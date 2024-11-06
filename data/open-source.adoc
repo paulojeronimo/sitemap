@@ -1,0 +1,6 @@
+[#open-source]#104. open-source - Open source# - https://opensource.org/::
+* Git repositories:
+. https://github.com/blockchain4devs
+. https://github.com/cebraspe
+. https://github.com/pensandoodireito
+* Related: {linux}

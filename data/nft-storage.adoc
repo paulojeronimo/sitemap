@@ -1,0 +1,6 @@
+[#nft-storage]#94. nft-storage - NFT.Storage# - https://nft.storage/::
+* Videos:
+. https://odysee.com/@paulojeronimo:4/ethereum-nft-tutorial-1:f
+* Documents:
+. https://paulojeronimo.com/ethereum-nft-tutorial/
+* Related: {web3}

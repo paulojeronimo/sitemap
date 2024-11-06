@@ -1,0 +1,7 @@
+[#nodejs]#100. nodejs - Node.js# - https://nodejs.org/en/::
+* Git repositories:
+. https://github.com/paulojeronimo/docker-node-shell-functions
+. https://github.com/paulojeronimo/npm-package-test
+. https://github.com/paulojeronimo/npm-package-use
+. https://github.com/paulojeronimo/jwt-refresh-token
+* Related: {javascript} | {typescript}

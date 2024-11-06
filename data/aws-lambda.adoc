@@ -1,0 +1,5 @@
+[#aws-lambda]#16. aws-lambda - AWS Lambda# - https://aws.amazon.com/lambda/::
+* Documents:
+. https://paulojeronimo.com/aws-lambda-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/aws-lambda-labs/

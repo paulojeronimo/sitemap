@@ -1,0 +1,9 @@
+[#git]#50. git - Git# - https://git-scm.com/::
+* Documents:
+. https://paulojeronimo.com/git-labs/
+. https://paulojeronimo.com/tutorial-git-github/
+* Git repositories:
+. https://github.com/paulojeronimo/git-labs
+. https://github.com/paulojeronimo/praticando-git-livro
+. https://github.com/paulojeronimo/tutorial-git-github
+* Related: <<git-repositories>>

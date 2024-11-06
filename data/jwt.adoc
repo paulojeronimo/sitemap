@@ -1,0 +1,6 @@
+[#jwt]#70. jwt - JWT# - https://jwt.io/::
+* Videos:
+. https://www.youtube.com/watch?v=iJU-74SPisI&list=PL3jVhh9mXmz_V7gLYMOsL5OVOQHv5lCDk&index=1
+* Git repositories:
+. https://github.com/paulojeronimo/jwt-refresh-token
+* Related: {javascript} | {spring-boot} | {oauth}

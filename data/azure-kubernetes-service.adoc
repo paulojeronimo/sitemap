@@ -1,0 +1,6 @@
+[#azure-kubernetes-service]#21. azure-kubernetes-service - Azure Kubernetes Service (AKS)# - https://azure.microsoft.com/en-us/products/kubernetes-service/::
+* Documents:
+. https://paulojeronimo.com/aks-with-github-actions-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/react-clock-basic
+* Related: {microsoft-azure} | {react}

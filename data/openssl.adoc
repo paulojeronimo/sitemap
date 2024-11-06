@@ -1,0 +1,3 @@
+[#openssl]#108. openssl - OpenSSL# - https://www.openssl.org/::
+* Git repositories:
+. https://github.com/paulojeronimo/my-openssl-ca

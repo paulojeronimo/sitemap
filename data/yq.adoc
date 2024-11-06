@@ -1,0 +1,7 @@
+[#yq]#156. yq - yq# - https://mikefarah.gitbook.io/yq/::
+* Documents:
+. https://paulojeronimo.com/jq-timesheet-tutorial/multipage/
+* Git repositories:
+. https://github.com/paulojeronimo/jq-timesheet-tutorial
+. https://github.com/paulojeronimo/near-rust-smart-contract-tutorial-video
+* Related: {jq} | {yaml}

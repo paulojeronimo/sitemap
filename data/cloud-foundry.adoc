@@ -1,0 +1,6 @@
+[#cloud-foundry]#29. cloud-foundry - Cloud Foundry# - https://www.cloudfoundry.org/::
+* Documents:
+. https://paulojeronimo.com/bosh-lite-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/bosh-lite-tutorial
+* Related: {cloud-platforms}

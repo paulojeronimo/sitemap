@@ -1,0 +1,2 @@
+[#erc-1155]#38. erc-1155 - ERC-1155# - https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/::
+* Related: {web3} | {token}

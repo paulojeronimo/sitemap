@@ -1,0 +1,5 @@
+[#swagger]#137. swagger - Swagger# - https://swagger.io/::
+* Documents:
+. https://paulojeronimo.com/quarkus-react-sample/
+* Git repositories:
+. https://github.com/paulojeronimo/quarkus-react-sample

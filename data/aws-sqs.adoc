@@ -1,0 +1,5 @@
+[#aws-sqs]#18. aws-sqs - AWS SQS# - https://aws.amazon.com/sqs/::
+* Documents:
+. https://paulojeronimo.com/aws-lambda-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/aws-lambda-labs/

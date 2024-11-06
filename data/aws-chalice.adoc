@@ -1,0 +1,6 @@
+[#aws-chalice]#12. aws-chalice - AWS Chalice# - https://aws.github.io/chalice/::
+* Documents:
+. https://paulojeronimo.com/aws-lambda-labs/
+* Git repositories:
+. https://github.com/paulojeronimo/aws-lambda-labs/
+* Related: {aws-lambda} | {python}

@@ -1,0 +1,8 @@
+[#near]#93. near - NEAR# - https://near.org/::
+* Documents:
+. https://paulojeronimo.com/near-rust-smart-contract-tutorial/
+. https://paulojeronimo.com/near-rust-smart-contract-tutorial-video/
+. https://paulojeronimo.com/near-greeting-frontend-tutorial/
+* Git repositories:
+. https://github.com/paulojeronimo/near-greeting-frontend-tutorial
+* Related: {smart-contract} | {dapp} | {blockchain}

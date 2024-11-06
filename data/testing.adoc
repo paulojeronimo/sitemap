@@ -1,0 +1,2 @@
+[#testing]#141. testing - Testing#::
+* Related: {tdd} | {bdd} | {arquillian}

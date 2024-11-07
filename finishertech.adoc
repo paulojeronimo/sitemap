@@ -9,22 +9,22 @@ Portuguese-speaking people, this content is unavailable in English.
 . [[finishersdao]]Finishers.DAO is a {uri-google-search-dao}[Distributed
   Autonomous Organization^] that I initiated.
 .. Video about it: https://www.youtube.com/watch?v=o-5leul6v_w
-.. Site: https://finisher.tech/dao
+.. Site: https://finishertech.paulojeronimo.com/dao
 . [[saudeecripto]]"Saúde e Cripto" is the Brazilian brand to a category
   of projects related to {move-to-earn_} developed by Finisher.Tech.
 .. https://bio.link/saudeecripto
-.. https://finisher.tech/saudeecripto.pdf
-.. https://finisher.tech/dapps/
-.. https://finisher.tech/move-to-earn/
+.. https://finishertech.paulojeronimo.com/saudeecripto.pdf
+.. https://finishertech.paulojeronimo.com/dapps/
+.. https://finishertech.paulojeronimo.com/move-to-earn/
 . [[finishertech-edu]] Educational content related to {web3_}
   technologies (or prerequisites to develop the <<dapp,DApps>> created
 by Finisher.Tech):
-.. https://finisher.tech/mentoria.pdf
-.. https://finisher.tech/tutorial-1/
-... https://finisher.tech/free-weeks-1/
+.. https://finishertech.paulojeronimo.com/mentoria.pdf
+.. https://finishertech.paulojeronimo.com/tutorial-1/
+... https://finishertech.paulojeronimo.com/free-weeks-1/
 .... https://github.com/finishertech/finishertech.github.io/tree/source
 <- Site source code (in {react_})
-.. https://finisher.tech/fibonacci-app/
+.. https://finishertech.paulojeronimo.com/fibonacci-app/
 ... https://github.com/finishertech/fibonacci-app
 <- {react_} code
 . [[finishertech-ideas]] Ideas to implement some products (at

@@ -1,4 +1,4 @@
 [#dapp]#Decentralized Application (DApp)# - https://en.wikipedia.org/wiki/Decentralized_application::
 * Documents:
-. https://finisher.tech/dapps <- article
+. https://finishertech.paulojeronimo.com/dapps <- article
 * Related: {smart-contract} | {ethereum} | {near}

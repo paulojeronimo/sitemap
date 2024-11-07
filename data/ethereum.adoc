@@ -13,7 +13,7 @@
 * Documents:
 . https://paulojeronimo.com/ethereum-helloworld-tutorial/
 . https://paulojeronimo.com/ethereum-pet-shop-tutorial/
-. https://finisher.tech/mentoria.pdf
+. https://finishertech.paulojeronimo.com/mentoria.pdf
 . https://paulojeronimo.com/ethereum-tutorial-cotidiano/
 . https://paulojeronimo.com/ethereum-tutorial/
 * Related: {web3} | {blockchain} | {nft} | {near} | {solidity} |

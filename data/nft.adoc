@@ -9,7 +9,7 @@
 . https://paulojeronimo.com/mymedals.nft/ <- article
 . https://paulojeronimo.com/medalha.nft/ <- article
 . https://paulojeronimo.com/ethereum-nft-tutorial/
-. https://finisher.tech/mentoria.pdf
+. https://finishertech.paulojeronimo.com/mentoria.pdf
 * Git repositories:
 . https://github.com/paulojeronimo/mymedals.nft
 * Blog posts

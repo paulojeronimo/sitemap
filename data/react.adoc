@@ -3,7 +3,7 @@
 . https://www.youtube.com/playlist?list=PL2UgI3aRNe-gXKmojaUmM67PSC57CndrC +
    FTFreeWeeks1-1 - Finisher.Tech escrito em React
 * Documents:
-. https://finisher.tech/tutorial-1/
+. https://finishertech.paulojeronimo.com/tutorial-1/
 . https://paulojeronimo.com/finishertech-website-tutorial/
 . https://paulojeronimo.com/docker-parcel-react-tutorial/
 . https://paulojeronimo.com/react-parcel-quickstart-tutorial/

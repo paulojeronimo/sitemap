@@ -1,7 +1,7 @@
 [#javascript]#JavaScript# - https://developer.mozilla.org/en-US/docs/Web/JavaScript::
 * Documents:
 . https://paulojeronimo.com/game-tutorial
-. https://finisher.tech/tutorial-1/
+. https://finishertech.paulojeronimo.com/tutorial-1/
 * Git repositories:
 . https://github.com/paulojeronimo/game-tutorial
 . https://github.com/paulojeronimo/game

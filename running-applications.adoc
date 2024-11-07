@@ -4,7 +4,7 @@
 Below are some links to straightforward applications that I developed to
 demonstrate a little of my knowledge regarding some technologies.
 
-. https://finisher.tech/fibonacci-app +
+. https://finishertech.paulojeronimo.com/fibonacci-app +
 Git repo: https://github.com/finishertech/fibonacci-app +
 Related: {react} | {react-router} | {react-katex} | {github-pages}
 . https://paulojeronimo.com/sveltekit-web3-login/ +
